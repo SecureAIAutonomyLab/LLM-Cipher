@@ -1,0 +1,15 @@
+#!/bin/bash
+
+python ../scripts/
+
+
+
+
+
+
+
+
+
+
+
+

@@ -57,11 +57,5 @@ print(embeddings.keys())
 
 print(embeddings['last_hidden_state'].shape)
 
-print(embeddings['last_hidden_state'][0][260])
-print(embeddings['last_hidden_state'][0][261])
-print(embeddings['last_hidden_state'][0][262])
-print(embeddings['last_hidden_state'][0][263])
-print(embeddings['last_hidden_state'][0][264])
-print(embeddings['last_hidden_state'][0][265])
-
+print(embeddings['last_hidden_state'][0][260].shape)
 

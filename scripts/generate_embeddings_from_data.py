@@ -49,12 +49,14 @@ for filepath in filepaths:
                 ]
 
                 for human_key, machine_key in key_pairs:
-                    if human_key in row and machine_key in row:
+                    if human_key in row and machine_key in row and row[human_key] and row[machine_key]:
                         human_embedding = encode_text(row[human_key])
                         machine_embedding = encode_text(row[machine_key])
                         break
-                
-                assert human_embedding, "keys weren't found!"
+
+                if not human_embedding or not machine_embedding:
+                    continue
+
                 embedding_data = {
                     'human_text_embedding': human_embedding,
                     'machine_text_embedding': machine_embedding

@@ -160,6 +160,6 @@ model_weights/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-data
-embedding_data
+data/
+embedding/data/
 embedding_data.tar.gz

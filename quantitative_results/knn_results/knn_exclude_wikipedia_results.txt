@@ -1,0 +1,5 @@
+Results when excluding wikipedia:
+Accuracy: 0.7540
+Human Precision: 0.4551, Recall: 0.2566, F1: 0.3282
+Machine Precision: 0.7994, Recall: 0.9061, F1: 0.8494
+----------------------

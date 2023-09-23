@@ -1,0 +1,5 @@
+Results when excluding cohere:
+Accuracy: 0.8836
+Human Precision: 0.9284, Recall: 0.8312, F1: 0.8771
+Machine Precision: 0.8473, Recall: 0.9359, F1: 0.8894
+----------------------

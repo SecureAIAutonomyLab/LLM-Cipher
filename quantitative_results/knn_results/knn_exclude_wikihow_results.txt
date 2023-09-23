@@ -1,0 +1,5 @@
+Results when excluding wikihow:
+Accuracy: 0.6931
+Human Precision: 0.2895, Recall: 0.5792, F1: 0.3861
+Machine Precision: 0.8948, Recall: 0.7158, F1: 0.7954
+----------------------

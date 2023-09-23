@@ -1,0 +1,5 @@
+Results when excluding arxiv:
+Accuracy: 0.7716
+Human Precision: 0.3850, Recall: 0.6217, F1: 0.4756
+Machine Precision: 0.9138, Recall: 0.8015, F1: 0.8540
+----------------------

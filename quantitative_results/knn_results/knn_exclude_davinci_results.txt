@@ -1,0 +1,5 @@
+Results when excluding davinci:
+Accuracy: 0.8846
+Human Precision: 0.9183, Recall: 0.8443, F1: 0.8798
+Machine Precision: 0.8560, Recall: 0.9249, F1: 0.8891
+----------------------

@@ -1,0 +1,5 @@
+Results when excluding peerread:
+Accuracy: 0.8415
+Human Precision: 0.5668, Recall: 0.2099, F1: 0.3064
+Machine Precision: 0.8596, Recall: 0.9679, F1: 0.9106
+----------------------

@@ -1,0 +1,5 @@
+Results when excluding bloomz:
+Accuracy: 0.7921
+Human Precision: 0.7871, Recall: 0.8007, F1: 0.7939
+Machine Precision: 0.7973, Recall: 0.7835, F1: 0.7903
+----------------------

@@ -1,0 +1,5 @@
+Results when excluding chatGPT:
+Accuracy: 0.9011
+Human Precision: 0.9690, Recall: 0.8287, F1: 0.8934
+Machine Precision: 0.8504, Recall: 0.9735, F1: 0.9078
+----------------------

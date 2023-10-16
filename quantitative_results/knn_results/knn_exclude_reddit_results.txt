@@ -1,0 +1,5 @@
+Results when excluding reddit:
+Accuracy: 0.8147
+Human Precision: 0.4982, Recall: 0.2357, F1: 0.3200
+Machine Precision: 0.8451, Recall: 0.9461, F1: 0.8928
+----------------------

@@ -1,0 +1,5 @@
+Results when excluding dolly:
+Accuracy: 0.8475
+Human Precision: 0.8532, Recall: 0.8393, F1: 0.8462
+Machine Precision: 0.8419, Recall: 0.8556, F1: 0.8487
+----------------------

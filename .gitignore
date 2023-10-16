@@ -163,3 +163,11 @@ model_weights/
 data/
 embedding_data/
 embedding_data.tar.gz
+embedding_data_temp/
+embedding_data_cleaned*/
+DeepfakeTextDetection/M4_data_processed/
+*.json
+*.pt
+*.jsonl
+*csv
+!training_data.json

@@ -166,8 +166,15 @@ embedding_data.tar.gz
 embedding_data_temp/
 embedding_data_cleaned*/
 DeepfakeTextDetection/M4_data_processed/
+DeepfakeTextDetection/models/*
+DeepfakeTextDetection/DFTFooler/models/*
 *.json
 *.pt
 *.jsonl
 *csv
 !training_data.json
+*.npy
+results/linear_results/best_model_humanvs5generators.pth
+results/linear_results/best_model_linear_binary.pth
+results/linear_results/best_model_linear_binary_2.pth
+DeepfakeTextDetection/DFTFooler/counter-fitted-vectors.txt

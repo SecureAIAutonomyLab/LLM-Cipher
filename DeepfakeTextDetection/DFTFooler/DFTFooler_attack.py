@@ -189,7 +189,7 @@ def query_min_prob_fast(article_cache, current_article, idx, filtered_synonyms, 
                 if prob_info[0] < min_prob:
                     synonym_to_alter = synonym
                     min_prob = prob_info[0]
-    print('synonym_to_alter', synonym_to_alter)
+    #print('synonym_to_alter', synonym_to_alter)
     return synonym_to_alter
 
 
@@ -311,7 +311,7 @@ if __name__ == '__main__':
 
     parser.add_argument(
         '--counter_fitting_cos_sim_path',
-        default='./cos_sim_counter_fitting_validate.npy',
+        default='./cos_sim_counter_fitting.npy',
         type=str,
         required=False,
     )
@@ -340,7 +340,7 @@ if __name__ == '__main__':
 
     parser.add_argument(
         '--dataset_tag', # indicates the format of dataset to be processed. used in read_data.
-        default='roberta',
+        default='bert', #changed from roberta
         type=str,
         required=False,
     )

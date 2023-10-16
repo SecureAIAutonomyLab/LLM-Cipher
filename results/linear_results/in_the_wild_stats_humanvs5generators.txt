@@ -1,0 +1,64 @@
+Statistics for ArticleForge_machine_inthewild.npy:
+bloomz: 3, Average Logit: 0.9339542388916016, Std Dev Logit: 0.5752612948417664
+chatgpt: 0, Average Logit: nan, Std Dev Logit: nan
+cohere: 1, Average Logit: 0.6286888122558594, Std Dev Logit: nan
+davinci: 37, Average Logit: 2.6115164756774902, Std Dev Logit: 1.1035113334655762
+dolly: 839, Average Logit: 5.509880065917969, Std Dev Logit: 2.412959337234497
+human: 120, Average Logit: 4.165805816650391, Std Dev Logit: 1.672947883605957
+-------------------------------
+Statistics for ai_writer_human_inthewild.npy:
+bloomz: 17, Average Logit: 1.3740323781967163, Std Dev Logit: 1.6111127138137817
+chatgpt: 11, Average Logit: 1.3101269006729126, Std Dev Logit: 1.570273756980896
+cohere: 13, Average Logit: 0.6574397087097168, Std Dev Logit: 1.365949273109436
+davinci: 37, Average Logit: 1.612182855606079, Std Dev Logit: 1.3366584777832031
+dolly: 169, Average Logit: 2.2875816822052, Std Dev Logit: 2.094580888748169
+human: 753, Average Logit: 5.007481098175049, Std Dev Logit: 2.1963133811950684
+-------------------------------
+Statistics for reddit_bot_gpt3_machine_inthewild.npy:
+bloomz: 27, Average Logit: 2.207063913345337, Std Dev Logit: 2.559342384338379
+chatgpt: 95, Average Logit: 2.930509090423584, Std Dev Logit: 2.177978277206421
+cohere: 37, Average Logit: 2.1069650650024414, Std Dev Logit: 1.7582943439483643
+davinci: 124, Average Logit: 2.3945682048797607, Std Dev Logit: 1.61042058467865
+dolly: 528, Average Logit: 3.3133163452148438, Std Dev Logit: 1.959715485572815
+human: 76, Average Logit: 3.232109785079956, Std Dev Logit: 2.1441071033477783
+-------------------------------
+Statistics for kafkai_machine_inthewild.npy:
+bloomz: 5, Average Logit: 1.605501413345337, Std Dev Logit: 0.8555889129638672
+chatgpt: 1, Average Logit: 2.615400791168213, Std Dev Logit: nan
+cohere: 1, Average Logit: 0.41032710671424866, Std Dev Logit: nan
+davinci: 65, Average Logit: 3.0536234378814697, Std Dev Logit: 1.4431136846542358
+dolly: 589, Average Logit: 4.725427627563477, Std Dev Logit: 2.3851418495178223
+human: 339, Average Logit: 5.5684404373168945, Std Dev Logit: 2.152491807937622
+-------------------------------
+Statistics for ai_writer_machine_inthewild.npy:
+bloomz: 2, Average Logit: 1.6462185382843018, Std Dev Logit: 0.7029874920845032
+chatgpt: 0, Average Logit: nan, Std Dev Logit: nan
+cohere: 1, Average Logit: 0.9332549571990967, Std Dev Logit: nan
+davinci: 9, Average Logit: 2.4622750282287598, Std Dev Logit: 1.3535306453704834
+dolly: 589, Average Logit: 5.738017559051514, Std Dev Logit: 2.821390390396118
+human: 399, Average Logit: 5.818530082702637, Std Dev Logit: 2.0521535873413086
+-------------------------------
+Statistics for kafkai_human_inthewild.npy:
+bloomz: 12, Average Logit: 1.912412405014038, Std Dev Logit: 2.230919599533081
+chatgpt: 61, Average Logit: 1.780941128730774, Std Dev Logit: 1.6111270189285278
+cohere: 44, Average Logit: 2.4188618659973145, Std Dev Logit: 2.001734972000122
+davinci: 252, Average Logit: 2.491217613220215, Std Dev Logit: 1.4543797969818115
+dolly: 304, Average Logit: 2.804438829421997, Std Dev Logit: 2.090778350830078
+human: 327, Average Logit: 3.777040719985962, Std Dev Logit: 2.1327576637268066
+-------------------------------
+Statistics for ArticleForge_human_inthewild.npy:
+bloomz: 48, Average Logit: 1.2886282205581665, Std Dev Logit: 2.1458756923675537
+chatgpt: 8, Average Logit: 0.7988401651382446, Std Dev Logit: 2.1094441413879395
+cohere: 24, Average Logit: 0.6638683080673218, Std Dev Logit: 1.312741994857788
+davinci: 18, Average Logit: 1.3312565088272095, Std Dev Logit: 1.8482128381729126
+dolly: 155, Average Logit: 1.47935950756073, Std Dev Logit: 1.5567377805709839
+human: 747, Average Logit: 4.580416202545166, Std Dev Logit: 2.3020291328430176
+-------------------------------
+Statistics for reddit_bot_gpt3_human_inthewild.npy:
+bloomz: 62, Average Logit: 2.72601580619812, Std Dev Logit: 2.426666736602783
+chatgpt: 21, Average Logit: 1.5326294898986816, Std Dev Logit: 2.3860321044921875
+cohere: 3, Average Logit: 0.6110879182815552, Std Dev Logit: 1.0106287002563477
+davinci: 30, Average Logit: 1.551833987236023, Std Dev Logit: 1.5148569345474243
+dolly: 169, Average Logit: 2.8739945888519287, Std Dev Logit: 1.7618380784988403
+human: 602, Average Logit: 5.535741806030273, Std Dev Logit: 2.418149471282959
+-------------------------------

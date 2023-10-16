@@ -1,0 +1,250 @@
+Results for bloomz on arxiv test set with original perturbation:
+Samples: 600
+Accuracy: 0.7517
+Human Precision: 0.7411
+Human Recall: 0.8006
+Human F1: 0.7697
+Machine Precision: 0.7652
+Machine Recall: 0.6990
+Machine F1: 0.7306
+----------------------
+Results for chatgpt on arxiv test set with original perturbation:
+Samples: 600
+Accuracy: 0.8917
+Human Precision: 0.9590
+Human Recall: 0.8264
+Human F1: 0.8877
+Machine Precision: 0.8373
+Machine Recall: 0.9619
+Machine F1: 0.8953
+----------------------
+Results for cohere on arxiv test set with original perturbation:
+Samples: 600
+Accuracy: 0.7133
+Human Precision: 0.7324
+Human Recall: 0.7042
+Human F1: 0.7180
+Machine Precision: 0.6944
+Machine Recall: 0.7232
+Machine F1: 0.7085
+----------------------
+Results for davinci on arxiv test set with original perturbation:
+Samples: 600
+Accuracy: 0.6750
+Human Precision: 0.6946
+Human Recall: 0.6656
+Human F1: 0.6798
+Machine Precision: 0.6556
+Machine Recall: 0.6851
+Machine F1: 0.6701
+----------------------
+Results for dolly on arxiv test set with original perturbation:
+Samples: 600
+Accuracy: 0.6133
+Human Precision: 0.6094
+Human Recall: 0.7074
+Human F1: 0.6548
+Machine Precision: 0.6192
+Machine Recall: 0.5121
+Machine F1: 0.5606
+----------------------
+Results for bloomz on peerread test set with original perturbation:
+Samples: 117
+Accuracy: 0.7863
+Human Precision: 0.8276
+Human Recall: 0.7619
+Human F1: 0.7934
+Machine Precision: 0.7458
+Machine Recall: 0.8148
+Machine F1: 0.7788
+----------------------
+Results for chatgpt on peerread test set with original perturbation:
+Samples: 117
+Accuracy: 0.8889
+Human Precision: 0.9298
+Human Recall: 0.8548
+Human F1: 0.8908
+Machine Precision: 0.8500
+Machine Recall: 0.9273
+Machine F1: 0.8870
+----------------------
+Results for cohere on peerread test set with original perturbation:
+Samples: 117
+Accuracy: 0.8889
+Human Precision: 0.9623
+Human Recall: 0.8226
+Human F1: 0.8870
+Machine Precision: 0.8281
+Machine Recall: 0.9636
+Machine F1: 0.8908
+----------------------
+Results for davinci on peerread test set with original perturbation:
+Samples: 117
+Accuracy: 0.9573
+Human Precision: 1.0000
+Human Recall: 0.9194
+Human F1: 0.9580
+Machine Precision: 0.9167
+Machine Recall: 1.0000
+Machine F1: 0.9565
+----------------------
+Results for dolly on peerread test set with original perturbation:
+Samples: 117
+Accuracy: 0.7350
+Human Precision: 0.7067
+Human Recall: 0.8548
+Human F1: 0.7737
+Machine Precision: 0.7857
+Machine Recall: 0.6000
+Machine F1: 0.6804
+----------------------
+Results for bloomz on reddit test set with original perturbation:
+Samples: 600
+Accuracy: 0.8833
+Human Precision: 0.9085
+Human Recall: 0.8617
+Human F1: 0.8845
+Machine Precision: 0.8590
+Machine Recall: 0.9066
+Machine F1: 0.8822
+----------------------
+Results for chatgpt on reddit test set with original perturbation:
+Samples: 600
+Accuracy: 0.9067
+Human Precision: 0.9126
+Human Recall: 0.9068
+Human F1: 0.9097
+Machine Precision: 0.9003
+Machine Recall: 0.9066
+Machine F1: 0.9034
+----------------------
+Results for cohere on reddit test set with original perturbation:
+Samples: 244
+Accuracy: 0.8893
+Human Precision: 0.8370
+Human Recall: 0.9576
+Human F1: 0.8933
+Machine Precision: 0.9541
+Machine Recall: 0.8254
+Machine F1: 0.8851
+----------------------
+Results for davinci on reddit test set with original perturbation:
+Samples: 600
+Accuracy: 0.8500
+Human Precision: 0.8576
+Human Recall: 0.8521
+Human F1: 0.8548
+Machine Precision: 0.8419
+Machine Recall: 0.8478
+Machine F1: 0.8448
+----------------------
+Results for dolly on reddit test set with original perturbation:
+Samples: 600
+Accuracy: 0.7400
+Human Precision: 0.7313
+Human Recall: 0.7878
+Human F1: 0.7585
+Machine Precision: 0.7509
+Machine Recall: 0.6886
+Machine F1: 0.7184
+----------------------
+Results for bloomz on wikihow test set with original perturbation:
+Samples: 600
+Accuracy: 0.7267
+Human Precision: 0.7379
+Human Recall: 0.7331
+Human F1: 0.7355
+Machine Precision: 0.7148
+Machine Recall: 0.7197
+Machine F1: 0.7172
+----------------------
+Results for chatgpt on wikihow test set with original perturbation:
+Samples: 600
+Accuracy: 0.7033
+Human Precision: 0.7254
+Human Recall: 0.6881
+Human F1: 0.7063
+Machine Precision: 0.6820
+Machine Recall: 0.7197
+Machine F1: 0.7003
+----------------------
+Results for cohere on wikihow test set with original perturbation:
+Samples: 600
+Accuracy: 0.8383
+Human Precision: 0.8344
+Human Recall: 0.8482
+Human F1: 0.8412
+Machine Precision: 0.8425
+Machine Recall: 0.8283
+Machine F1: 0.8353
+----------------------
+Results for davinci on wikihow test set with original perturbation:
+Samples: 600
+Accuracy: 0.6883
+Human Precision: 0.7109
+Human Recall: 0.6720
+Human F1: 0.6909
+Machine Precision: 0.6667
+Machine Recall: 0.7059
+Machine F1: 0.6857
+----------------------
+Results for dolly on wikihow test set with original perturbation:
+Samples: 600
+Accuracy: 0.7450
+Human Precision: 0.7324
+Human Recall: 0.8006
+Human F1: 0.7650
+Machine Precision: 0.7615
+Machine Recall: 0.6851
+Machine F1: 0.7213
+----------------------
+Results for bloomz on wikipedia test set with original perturbation:
+Samples: 600
+Accuracy: 0.9100
+Human Precision: 0.9105
+Human Recall: 0.9164
+Human F1: 0.9135
+Machine Precision: 0.9094
+Machine Recall: 0.9031
+Machine F1: 0.9062
+----------------------
+Results for chatgpt on wikipedia test set with original perturbation:
+Samples: 599
+Accuracy: 0.9633
+Human Precision: 0.9626
+Human Recall: 0.9687
+Human F1: 0.9656
+Machine Precision: 0.9640
+Machine Recall: 0.9571
+Machine F1: 0.9606
+----------------------
+Results for cohere on wikipedia test set with original perturbation:
+Samples: 467
+Accuracy: 0.7944
+Human Precision: 0.7727
+Human Recall: 0.8202
+Human F1: 0.7957
+Machine Precision: 0.8178
+Machine Recall: 0.7699
+Machine F1: 0.7931
+----------------------
+Results for davinci on wikipedia test set with original perturbation:
+Samples: 600
+Accuracy: 0.8417
+Human Precision: 0.8673
+Human Recall: 0.8199
+Human F1: 0.8430
+Machine Precision: 0.8170
+Machine Recall: 0.8651
+Machine F1: 0.8403
+----------------------
+Results for dolly on wikipedia test set with original perturbation:
+Samples: 540
+Accuracy: 0.7648
+Human Precision: 0.7475
+Human Recall: 0.8102
+Human F1: 0.7776
+Machine Precision: 0.7860
+Machine Recall: 0.7180
+Machine F1: 0.7505
+----------------------

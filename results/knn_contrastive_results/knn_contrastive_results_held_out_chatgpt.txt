@@ -1,0 +1,11 @@
+Accuracy: 0.9942
+
+Class Human:
+Precision: 0.9910
+Recall: 0.9975
+F1 Score: 0.9942
+
+Class Machine:
+Precision: 0.9974
+Recall: 0.9909
+F1 Score: 0.9942

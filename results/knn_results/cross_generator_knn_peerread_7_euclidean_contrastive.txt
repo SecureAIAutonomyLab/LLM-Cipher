@@ -1,0 +1,300 @@
+Train with bloomz, Test on bloomz
+Samples in Test set: 117
+Accuracy: 0.84
+Human Precision: 0.85, Human Recall: 0.84, Human F1: 0.85
+Machine Precision: 0.82, Machine Recall: 0.83, Machine F1: 0.83
+----------------------------------
+Train with bloomz, Validation on bloomz
+Samples in Validation set: 117
+Accuracy: 0.81
+Human Precision: 0.76, Human Recall: 0.85, Human F1: 0.80
+Machine Precision: 0.86, Machine Recall: 0.78, Machine F1: 0.82
+----------------------------------
+Train with bloomz, Test on chatgpt
+Samples in Test set: 117
+Accuracy: 0.95
+Human Precision: 1.00, Human Recall: 0.90, Human F1: 0.95
+Machine Precision: 0.90, Machine Recall: 1.00, Machine F1: 0.95
+----------------------------------
+Train with bloomz, Validation on chatgpt
+Samples in Validation set: 118
+Accuracy: 0.92
+Human Precision: 1.00, Human Recall: 0.81, Human F1: 0.90
+Machine Precision: 0.87, Machine Recall: 1.00, Machine F1: 0.93
+----------------------------------
+Train with bloomz, Test on cohere
+Samples in Test set: 117
+Accuracy: 0.95
+Human Precision: 1.00, Human Recall: 0.90, Human F1: 0.95
+Machine Precision: 0.90, Machine Recall: 1.00, Machine F1: 0.95
+----------------------------------
+Train with bloomz, Validation on cohere
+Samples in Validation set: 118
+Accuracy: 0.92
+Human Precision: 1.00, Human Recall: 0.81, Human F1: 0.90
+Machine Precision: 0.87, Machine Recall: 1.00, Machine F1: 0.93
+----------------------------------
+Train with bloomz, Test on davinci
+Samples in Test set: 117
+Accuracy: 0.95
+Human Precision: 1.00, Human Recall: 0.90, Human F1: 0.95
+Machine Precision: 0.90, Machine Recall: 1.00, Machine F1: 0.95
+----------------------------------
+Train with bloomz, Validation on davinci
+Samples in Validation set: 118
+Accuracy: 0.92
+Human Precision: 1.00, Human Recall: 0.81, Human F1: 0.90
+Machine Precision: 0.87, Machine Recall: 1.00, Machine F1: 0.93
+----------------------------------
+Train with bloomz, Test on dolly
+Samples in Test set: 117
+Accuracy: 0.88
+Human Precision: 0.88, Human Recall: 0.90, Human F1: 0.89
+Machine Precision: 0.89, Machine Recall: 0.85, Machine F1: 0.87
+----------------------------------
+Train with bloomz, Validation on dolly
+Samples in Validation set: 118
+Accuracy: 0.81
+Human Precision: 0.77, Human Recall: 0.81, Human F1: 0.79
+Machine Precision: 0.84, Machine Recall: 0.80, Machine F1: 0.82
+----------------------------------
+Train with chatgpt, Test on bloomz
+Samples in Test set: 117
+Accuracy: 0.85
+Human Precision: 0.81, Human Recall: 0.95, Human F1: 0.88
+Machine Precision: 0.93, Machine Recall: 0.74, Machine F1: 0.82
+----------------------------------
+Train with chatgpt, Validation on bloomz
+Samples in Validation set: 117
+Accuracy: 0.80
+Human Precision: 0.72, Human Recall: 0.90, Human F1: 0.80
+Machine Precision: 0.90, Machine Recall: 0.72, Machine F1: 0.80
+----------------------------------
+Train with chatgpt, Test on chatgpt
+Samples in Test set: 117
+Accuracy: 0.97
+Human Precision: 0.98, Human Recall: 0.95, Human F1: 0.97
+Machine Precision: 0.95, Machine Recall: 0.98, Machine F1: 0.96
+----------------------------------
+Train with chatgpt, Validation on chatgpt
+Samples in Validation set: 118
+Accuracy: 0.93
+Human Precision: 0.98, Human Recall: 0.87, Human F1: 0.92
+Machine Precision: 0.90, Machine Recall: 0.98, Machine F1: 0.94
+----------------------------------
+Train with chatgpt, Test on cohere
+Samples in Test set: 117
+Accuracy: 0.97
+Human Precision: 0.98, Human Recall: 0.95, Human F1: 0.97
+Machine Precision: 0.95, Machine Recall: 0.98, Machine F1: 0.96
+----------------------------------
+Train with chatgpt, Validation on cohere
+Samples in Validation set: 118
+Accuracy: 0.93
+Human Precision: 0.98, Human Recall: 0.87, Human F1: 0.92
+Machine Precision: 0.90, Machine Recall: 0.98, Machine F1: 0.94
+----------------------------------
+Train with chatgpt, Test on davinci
+Samples in Test set: 117
+Accuracy: 0.97
+Human Precision: 1.00, Human Recall: 0.95, Human F1: 0.98
+Machine Precision: 0.95, Machine Recall: 1.00, Machine F1: 0.97
+----------------------------------
+Train with chatgpt, Validation on davinci
+Samples in Validation set: 118
+Accuracy: 0.94
+Human Precision: 1.00, Human Recall: 0.87, Human F1: 0.93
+Machine Precision: 0.90, Machine Recall: 1.00, Machine F1: 0.95
+----------------------------------
+Train with chatgpt, Test on dolly
+Samples in Test set: 117
+Accuracy: 0.84
+Human Precision: 0.79, Human Recall: 0.95, Human F1: 0.86
+Machine Precision: 0.93, Machine Recall: 0.71, Machine F1: 0.80
+----------------------------------
+Train with chatgpt, Validation on dolly
+Samples in Validation set: 118
+Accuracy: 0.75
+Human Precision: 0.67, Human Recall: 0.87, Human F1: 0.75
+Machine Precision: 0.86, Machine Recall: 0.65, Machine F1: 0.74
+----------------------------------
+Train with cohere, Test on bloomz
+Samples in Test set: 117
+Accuracy: 0.85
+Human Precision: 0.79, Human Recall: 0.97, Human F1: 0.87
+Machine Precision: 0.95, Machine Recall: 0.70, Machine F1: 0.81
+----------------------------------
+Train with cohere, Validation on bloomz
+Samples in Validation set: 117
+Accuracy: 0.73
+Human Precision: 0.63, Human Recall: 0.92, Human F1: 0.75
+Machine Precision: 0.90, Machine Recall: 0.57, Machine F1: 0.70
+----------------------------------
+Train with cohere, Test on chatgpt
+Samples in Test set: 117
+Accuracy: 0.95
+Human Precision: 0.94, Human Recall: 0.97, Human F1: 0.95
+Machine Precision: 0.96, Machine Recall: 0.93, Machine F1: 0.94
+----------------------------------
+Train with cohere, Validation on chatgpt
+Samples in Validation set: 118
+Accuracy: 0.92
+Human Precision: 0.94, Human Recall: 0.89, Human F1: 0.91
+Machine Precision: 0.91, Machine Recall: 0.95, Machine F1: 0.93
+----------------------------------
+Train with cohere, Test on cohere
+Samples in Test set: 117
+Accuracy: 0.97
+Human Precision: 0.97, Human Recall: 0.97, Human F1: 0.97
+Machine Precision: 0.96, Machine Recall: 0.96, Machine F1: 0.96
+----------------------------------
+Train with cohere, Validation on cohere
+Samples in Validation set: 118
+Accuracy: 0.93
+Human Precision: 0.96, Human Recall: 0.89, Human F1: 0.92
+Machine Precision: 0.91, Machine Recall: 0.97, Machine F1: 0.94
+----------------------------------
+Train with cohere, Test on davinci
+Samples in Test set: 117
+Accuracy: 0.98
+Human Precision: 1.00, Human Recall: 0.97, Human F1: 0.98
+Machine Precision: 0.96, Machine Recall: 1.00, Machine F1: 0.98
+----------------------------------
+Train with cohere, Validation on davinci
+Samples in Validation set: 118
+Accuracy: 0.95
+Human Precision: 1.00, Human Recall: 0.89, Human F1: 0.94
+Machine Precision: 0.92, Machine Recall: 1.00, Machine F1: 0.96
+----------------------------------
+Train with cohere, Test on dolly
+Samples in Test set: 117
+Accuracy: 0.79
+Human Precision: 0.72, Human Recall: 0.97, Human F1: 0.83
+Machine Precision: 0.94, Machine Recall: 0.58, Machine F1: 0.72
+----------------------------------
+Train with cohere, Validation on dolly
+Samples in Validation set: 118
+Accuracy: 0.70
+Human Precision: 0.62, Human Recall: 0.89, Human F1: 0.73
+Machine Precision: 0.86, Machine Recall: 0.55, Machine F1: 0.67
+----------------------------------
+Train with davinci, Test on bloomz
+Samples in Test set: 117
+Accuracy: 0.80
+Human Precision: 0.74, Human Recall: 0.98, Human F1: 0.84
+Machine Precision: 0.97, Machine Recall: 0.59, Machine F1: 0.74
+----------------------------------
+Train with davinci, Validation on bloomz
+Samples in Validation set: 117
+Accuracy: 0.68
+Human Precision: 0.59, Human Recall: 0.94, Human F1: 0.73
+Machine Precision: 0.91, Machine Recall: 0.48, Machine F1: 0.63
+----------------------------------
+Train with davinci, Test on chatgpt
+Samples in Test set: 117
+Accuracy: 0.93
+Human Precision: 0.90, Human Recall: 0.98, Human F1: 0.94
+Machine Precision: 0.98, Machine Recall: 0.87, Machine F1: 0.92
+----------------------------------
+Train with davinci, Validation on chatgpt
+Samples in Validation set: 118
+Accuracy: 0.90
+Human Precision: 0.86, Human Recall: 0.92, Human F1: 0.89
+Machine Precision: 0.93, Machine Recall: 0.88, Machine F1: 0.90
+----------------------------------
+Train with davinci, Test on cohere
+Samples in Test set: 117
+Accuracy: 0.97
+Human Precision: 0.97, Human Recall: 0.98, Human F1: 0.98
+Machine Precision: 0.98, Machine Recall: 0.96, Machine F1: 0.97
+----------------------------------
+Train with davinci, Validation on cohere
+Samples in Validation set: 118
+Accuracy: 0.92
+Human Precision: 0.89, Human Recall: 0.92, Human F1: 0.91
+Machine Precision: 0.94, Machine Recall: 0.91, Machine F1: 0.92
+----------------------------------
+Train with davinci, Test on davinci
+Samples in Test set: 117
+Accuracy: 0.99
+Human Precision: 1.00, Human Recall: 0.98, Human F1: 0.99
+Machine Precision: 0.98, Machine Recall: 1.00, Machine F1: 0.99
+----------------------------------
+Train with davinci, Validation on davinci
+Samples in Validation set: 118
+Accuracy: 0.97
+Human Precision: 1.00, Human Recall: 0.92, Human F1: 0.96
+Machine Precision: 0.94, Machine Recall: 1.00, Machine F1: 0.97
+----------------------------------
+Train with davinci, Test on dolly
+Samples in Test set: 117
+Accuracy: 0.72
+Human Precision: 0.66, Human Recall: 0.98, Human F1: 0.79
+Machine Precision: 0.96, Machine Recall: 0.42, Machine F1: 0.58
+----------------------------------
+Train with davinci, Validation on dolly
+Samples in Validation set: 118
+Accuracy: 0.65
+Human Precision: 0.57, Human Recall: 0.92, Human F1: 0.71
+Machine Precision: 0.88, Machine Recall: 0.43, Machine F1: 0.58
+----------------------------------
+Train with dolly, Test on bloomz
+Samples in Test set: 117
+Accuracy: 0.85
+Human Precision: 0.87, Human Recall: 0.84, Human F1: 0.85
+Machine Precision: 0.82, Machine Recall: 0.85, Machine F1: 0.84
+----------------------------------
+Train with dolly, Validation on bloomz
+Samples in Validation set: 117
+Accuracy: 0.83
+Human Precision: 0.80, Human Recall: 0.83, Human F1: 0.81
+Machine Precision: 0.86, Machine Recall: 0.83, Machine F1: 0.84
+----------------------------------
+Train with dolly, Test on chatgpt
+Samples in Test set: 117
+Accuracy: 0.94
+Human Precision: 1.00, Human Recall: 0.89, Human F1: 0.94
+Machine Precision: 0.89, Machine Recall: 1.00, Machine F1: 0.94
+----------------------------------
+Train with dolly, Validation on chatgpt
+Samples in Validation set: 118
+Accuracy: 0.88
+Human Precision: 1.00, Human Recall: 0.74, Human F1: 0.85
+Machine Precision: 0.82, Machine Recall: 1.00, Machine F1: 0.90
+----------------------------------
+Train with dolly, Test on cohere
+Samples in Test set: 117
+Accuracy: 0.94
+Human Precision: 1.00, Human Recall: 0.89, Human F1: 0.94
+Machine Precision: 0.89, Machine Recall: 1.00, Machine F1: 0.94
+----------------------------------
+Train with dolly, Validation on cohere
+Samples in Validation set: 118
+Accuracy: 0.88
+Human Precision: 1.00, Human Recall: 0.74, Human F1: 0.85
+Machine Precision: 0.82, Machine Recall: 1.00, Machine F1: 0.90
+----------------------------------
+Train with dolly, Test on davinci
+Samples in Test set: 117
+Accuracy: 0.94
+Human Precision: 1.00, Human Recall: 0.89, Human F1: 0.94
+Machine Precision: 0.89, Machine Recall: 1.00, Machine F1: 0.94
+----------------------------------
+Train with dolly, Validation on davinci
+Samples in Validation set: 118
+Accuracy: 0.88
+Human Precision: 1.00, Human Recall: 0.74, Human F1: 0.85
+Machine Precision: 0.82, Machine Recall: 1.00, Machine F1: 0.90
+----------------------------------
+Train with dolly, Test on dolly
+Samples in Test set: 117
+Accuracy: 0.87
+Human Precision: 0.87, Human Recall: 0.89, Human F1: 0.88
+Machine Precision: 0.87, Machine Recall: 0.85, Machine F1: 0.86
+----------------------------------
+Train with dolly, Validation on dolly
+Samples in Validation set: 118
+Accuracy: 0.81
+Human Precision: 0.81, Human Recall: 0.74, Human F1: 0.77
+Machine Precision: 0.80, Machine Recall: 0.86, Machine F1: 0.83
+----------------------------------

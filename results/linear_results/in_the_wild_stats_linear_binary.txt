@@ -1,0 +1,32 @@
+Statistics for ArticleForge_machine_inthewild.npy:
+human: 139, Average Logit: 2.6416988372802734, Std Dev Logit: 1.8460878133773804
+machine: 861, Average Logit: 12.380398750305176, Std Dev Logit: 18.413986206054688
+-------------------------------
+Statistics for ai_writer_human_inthewild.npy:
+human: 705, Average Logit: 5.519657611846924, Std Dev Logit: 6.176521301269531
+machine: 295, Average Logit: 6.153022766113281, Std Dev Logit: 11.5325345993042
+-------------------------------
+Statistics for reddit_bot_gpt3_machine_inthewild.npy:
+human: 82, Average Logit: 3.3351387977600098, Std Dev Logit: 3.170926570892334
+machine: 805, Average Logit: 35.59892272949219, Std Dev Logit: 45.84653854370117
+-------------------------------
+Statistics for kafkai_machine_inthewild.npy:
+human: 481, Average Logit: 3.7398014068603516, Std Dev Logit: 2.820432186126709
+machine: 519, Average Logit: 5.4609694480896, Std Dev Logit: 8.959624290466309
+-------------------------------
+Statistics for ai_writer_machine_inthewild.npy:
+human: 455, Average Logit: 3.4741625785827637, Std Dev Logit: 2.7061569690704346
+machine: 545, Average Logit: 6.640512943267822, Std Dev Logit: 11.021682739257812
+-------------------------------
+Statistics for kafkai_human_inthewild.npy:
+human: 274, Average Logit: 3.3026928901672363, Std Dev Logit: 3.3311028480529785
+machine: 726, Average Logit: 12.53863525390625, Std Dev Logit: 20.76361656188965
+-------------------------------
+Statistics for ArticleForge_human_inthewild.npy:
+human: 676, Average Logit: 5.609714508056641, Std Dev Logit: 6.531380653381348
+machine: 324, Average Logit: 4.06915283203125, Std Dev Logit: 4.316867351531982
+-------------------------------
+Statistics for reddit_bot_gpt3_human_inthewild.npy:
+human: 618, Average Logit: 5.901328086853027, Std Dev Logit: 6.780203342437744
+machine: 269, Average Logit: 6.5485663414001465, Std Dev Logit: 9.171031951904297
+-------------------------------

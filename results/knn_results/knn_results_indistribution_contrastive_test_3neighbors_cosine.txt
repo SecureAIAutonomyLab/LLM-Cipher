@@ -1,0 +1,250 @@
+Results for bloomz on arxiv test set with contrastive perturbation:
+Samples: 600
+Accuracy: 0.3700
+Human Precision: 0.2893
+Human Recall: 0.1479
+Human F1: 0.1957
+Machine Precision: 0.3991
+Machine Recall: 0.6090
+Machine F1: 0.4822
+----------------------
+Results for chatgpt on arxiv test set with contrastive perturbation:
+Samples: 600
+Accuracy: 0.2533
+Human Precision: 0.2905
+Human Recall: 0.3055
+Human F1: 0.2978
+Machine Precision: 0.2088
+Machine Recall: 0.1972
+Machine F1: 0.2028
+----------------------
+Results for cohere on arxiv test set with contrastive perturbation:
+Samples: 600
+Accuracy: 0.3567
+Human Precision: 0.4026
+Human Recall: 0.4984
+Human F1: 0.4454
+Machine Precision: 0.2744
+Machine Recall: 0.2042
+Machine F1: 0.2341
+----------------------
+Results for davinci on arxiv test set with contrastive perturbation:
+Samples: 600
+Accuracy: 0.4350
+Human Precision: 0.4609
+Human Recall: 0.5305
+Human F1: 0.4933
+Machine Precision: 0.3967
+Machine Recall: 0.3322
+Machine F1: 0.3616
+----------------------
+Results for dolly on arxiv test set with contrastive perturbation:
+Samples: 600
+Accuracy: 0.3367
+Human Precision: 0.3014
+Human Recall: 0.2122
+Human F1: 0.2491
+Machine Precision: 0.3570
+Machine Recall: 0.4706
+Machine F1: 0.4060
+----------------------
+Results for bloomz on peerread test set with contrastive perturbation:
+Samples: 117
+Accuracy: 0.4188
+Human Precision: 0.2222
+Human Recall: 0.0317
+Human F1: 0.0556
+Machine Precision: 0.4352
+Machine Recall: 0.8704
+Machine F1: 0.5802
+----------------------
+Results for chatgpt on peerread test set with contrastive perturbation:
+Samples: 117
+Accuracy: 0.1966
+Human Precision: 0.1000
+Human Recall: 0.0645
+Human F1: 0.0784
+Machine Precision: 0.2468
+Machine Recall: 0.3455
+Machine F1: 0.2879
+----------------------
+Results for cohere on peerread test set with contrastive perturbation:
+Samples: 117
+Accuracy: 0.2051
+Human Precision: 0.0571
+Human Recall: 0.0323
+Human F1: 0.0412
+Machine Precision: 0.2683
+Machine Recall: 0.4000
+Machine F1: 0.3212
+----------------------
+Results for davinci on peerread test set with contrastive perturbation:
+Samples: 117
+Accuracy: 0.1624
+Human Precision: 0.1897
+Human Recall: 0.1774
+Human F1: 0.1833
+Machine Precision: 0.1356
+Machine Recall: 0.1455
+Machine F1: 0.1404
+----------------------
+Results for dolly on peerread test set with contrastive perturbation:
+Samples: 117
+Accuracy: 0.4615
+Human Precision: 0.4615
+Human Recall: 0.0968
+Human F1: 0.1600
+Machine Precision: 0.4615
+Machine Recall: 0.8727
+Machine F1: 0.6038
+----------------------
+Results for bloomz on reddit test set with contrastive perturbation:
+Samples: 600
+Accuracy: 0.5550
+Human Precision: 0.7245
+Human Recall: 0.2283
+Human F1: 0.3472
+Machine Precision: 0.5219
+Machine Recall: 0.9066
+Machine F1: 0.6625
+----------------------
+Results for chatgpt on reddit test set with contrastive perturbation:
+Samples: 600
+Accuracy: 0.2700
+Human Precision: 0.3384
+Human Recall: 0.4277
+Human F1: 0.3778
+Machine Precision: 0.1401
+Machine Recall: 0.1003
+Machine F1: 0.1169
+----------------------
+Results for cohere on reddit test set with contrastive perturbation:
+Samples: 244
+Accuracy: 0.4385
+Human Precision: 0.4578
+Human Recall: 0.8729
+Human F1: 0.6006
+Machine Precision: 0.2105
+Machine Recall: 0.0317
+Machine F1: 0.0552
+----------------------
+Results for davinci on reddit test set with contrastive perturbation:
+Samples: 600
+Accuracy: 0.3117
+Human Precision: 0.3825
+Human Recall: 0.5338
+Human F1: 0.4456
+Machine Precision: 0.1265
+Machine Recall: 0.0727
+Machine F1: 0.0923
+----------------------
+Results for dolly on reddit test set with contrastive perturbation:
+Samples: 600
+Accuracy: 0.4583
+Human Precision: 0.4653
+Human Recall: 0.3023
+Human F1: 0.3665
+Machine Precision: 0.4548
+Machine Recall: 0.6263
+Machine F1: 0.5269
+----------------------
+Results for bloomz on wikihow test set with contrastive perturbation:
+Samples: 600
+Accuracy: 0.3017
+Human Precision: 0.2939
+Human Recall: 0.2476
+Human F1: 0.2688
+Machine Precision: 0.3077
+Machine Recall: 0.3599
+Machine F1: 0.3317
+----------------------
+Results for chatgpt on wikihow test set with contrastive perturbation:
+Samples: 600
+Accuracy: 0.3567
+Human Precision: 0.3391
+Human Recall: 0.2540
+Human F1: 0.2904
+Machine Precision: 0.3678
+Machine Recall: 0.4671
+Machine F1: 0.4116
+----------------------
+Results for cohere on wikihow test set with contrastive perturbation:
+Samples: 600
+Accuracy: 0.3767
+Human Precision: 0.4213
+Human Recall: 0.6271
+Human F1: 0.5040
+Machine Precision: 0.2416
+Machine Recall: 0.1212
+Machine F1: 0.1614
+----------------------
+Results for davinci on wikihow test set with contrastive perturbation:
+Samples: 600
+Accuracy: 0.3950
+Human Precision: 0.3943
+Human Recall: 0.3119
+Human F1: 0.3483
+Machine Precision: 0.3955
+Machine Recall: 0.4844
+Machine F1: 0.4355
+----------------------
+Results for dolly on wikihow test set with contrastive perturbation:
+Samples: 600
+Accuracy: 0.3500
+Human Precision: 0.2635
+Human Recall: 0.1415
+Human F1: 0.1841
+Machine Precision: 0.3834
+Machine Recall: 0.5744
+Machine F1: 0.4598
+----------------------
+Results for bloomz on wikipedia test set with contrastive perturbation:
+Samples: 600
+Accuracy: 0.3100
+Human Precision: 0.2948
+Human Recall: 0.2379
+Human F1: 0.2633
+Machine Precision: 0.3209
+Machine Recall: 0.3875
+Machine F1: 0.3511
+----------------------
+Results for chatgpt on wikipedia test set with contrastive perturbation:
+Samples: 599
+Accuracy: 0.1736
+Human Precision: 0.0769
+Human Recall: 0.0502
+Human F1: 0.0607
+Machine Precision: 0.2251
+Machine Recall: 0.3143
+Machine F1: 0.2623
+----------------------
+Results for cohere on wikipedia test set with contrastive perturbation:
+Samples: 467
+Accuracy: 0.3276
+Human Precision: 0.1884
+Human Recall: 0.1140
+Human F1: 0.1421
+Machine Precision: 0.3860
+Machine Recall: 0.5314
+Machine F1: 0.4472
+----------------------
+Results for davinci on wikipedia test set with contrastive perturbation:
+Samples: 600
+Accuracy: 0.2933
+Human Precision: 0.2802
+Human Recall: 0.2315
+Human F1: 0.2535
+Machine Precision: 0.3032
+Machine Recall: 0.3599
+Machine F1: 0.3291
+----------------------
+Results for dolly on wikipedia test set with contrastive perturbation:
+Samples: 540
+Accuracy: 0.5074
+Human Precision: 0.5074
+Human Recall: 0.9964
+Human F1: 0.6724
+Machine Precision: 0.5000
+Machine Recall: 0.0038
+Machine F1: 0.0075
+----------------------

@@ -1,0 +1,5 @@
+Results for ArticleForge:
+Accuracy: 0.790
+Human Precision: 0.933, Human Recall: 0.806, Human F1: 0.865
+Machine Precision: 0.423, Machine Recall: 0.710, Machine F1: 0.530
+----------------------------------

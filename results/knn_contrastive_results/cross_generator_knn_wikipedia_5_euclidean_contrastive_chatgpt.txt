@@ -1,0 +1,300 @@
+Train on bloomz, Test on bloomz with CL name chatgpt
+Samples in Test set: 550
+Accuracy: 0.604
+Human Precision: 0.623, Human Recall: 0.596, Human F1: 0.609
+Machine Precision: 0.585, Machine Recall: 0.611, Machine F1: 0.598
+----------------------------------
+Train on bloomz, Validation on bloomz with CL name chatgpt
+Samples in Validation set: 550
+Accuracy: 0.567
+Human Precision: 0.599, Human Recall: 0.550, Human F1: 0.573
+Machine Precision: 0.537, Machine Recall: 0.587, Machine F1: 0.561
+----------------------------------
+Train on bloomz, Test on chatgpt with CL name chatgpt
+Samples in Test set: 549
+Accuracy: 0.441
+Human Precision: 0.481, Human Recall: 0.694, Human F1: 0.568
+Machine Precision: 0.310, Machine Recall: 0.155, Machine F1: 0.207
+----------------------------------
+Train on bloomz, Validation on chatgpt with CL name chatgpt
+Samples in Validation set: 549
+Accuracy: 0.372
+Human Precision: 0.409, Human Recall: 0.636, Human F1: 0.498
+Machine Precision: 0.252, Machine Recall: 0.118, Machine F1: 0.161
+----------------------------------
+Train on bloomz, Test on cohere with CL name chatgpt
+Samples in Test set: 417
+Accuracy: 0.626
+Human Precision: 0.665, Human Recall: 0.642, Human F1: 0.653
+Machine Precision: 0.582, Machine Recall: 0.606, Machine F1: 0.594
+----------------------------------
+Train on bloomz, Validation on cohere with CL name chatgpt
+Samples in Validation set: 418
+Accuracy: 0.675
+Human Precision: 0.684, Human Recall: 0.678, Human F1: 0.681
+Machine Precision: 0.665, Machine Recall: 0.672, Machine F1: 0.668
+----------------------------------
+Train on bloomz, Test on davinci with CL name chatgpt
+Samples in Test set: 550
+Accuracy: 0.609
+Human Precision: 0.623, Human Recall: 0.621, Human F1: 0.622
+Machine Precision: 0.594, Machine Recall: 0.596, Machine F1: 0.595
+----------------------------------
+Train on bloomz, Validation on davinci with CL name chatgpt
+Samples in Validation set: 550
+Accuracy: 0.647
+Human Precision: 0.671, Human Recall: 0.653, Human F1: 0.662
+Machine Precision: 0.622, Machine Recall: 0.641, Machine F1: 0.631
+----------------------------------
+Train on bloomz, Test on dolly with CL name chatgpt
+Samples in Test set: 490
+Accuracy: 0.633
+Human Precision: 0.632, Human Recall: 0.663, Human F1: 0.647
+Machine Precision: 0.633, Machine Recall: 0.602, Machine F1: 0.617
+----------------------------------
+Train on bloomz, Validation on dolly with CL name chatgpt
+Samples in Validation set: 491
+Accuracy: 0.668
+Human Precision: 0.673, Human Recall: 0.702, Human F1: 0.687
+Machine Precision: 0.662, Machine Recall: 0.631, Machine F1: 0.646
+----------------------------------
+Train on chatgpt, Test on bloomz with CL name chatgpt
+Samples in Test set: 550
+Accuracy: 0.553
+Human Precision: 0.538, Human Recall: 0.979, Human F1: 0.694
+Machine Precision: 0.806, Machine Recall: 0.094, Machine F1: 0.169
+----------------------------------
+Train on chatgpt, Validation on bloomz with CL name chatgpt
+Samples in Validation set: 550
+Accuracy: 0.538
+Human Precision: 0.535, Human Recall: 0.969, Human F1: 0.689
+Machine Precision: 0.609, Machine Recall: 0.054, Machine F1: 0.099
+----------------------------------
+Train on chatgpt, Test on chatgpt with CL name chatgpt
+Samples in Test set: 549
+Accuracy: 0.976
+Human Precision: 0.973, Human Recall: 0.983, Human F1: 0.978
+Machine Precision: 0.980, Machine Recall: 0.969, Machine F1: 0.975
+----------------------------------
+Train on chatgpt, Validation on chatgpt with CL name chatgpt
+Samples in Validation set: 549
+Accuracy: 0.989
+Human Precision: 0.985, Human Recall: 0.993, Human F1: 0.989
+Machine Precision: 0.993, Machine Recall: 0.986, Machine F1: 0.989
+----------------------------------
+Train on chatgpt, Test on cohere with CL name chatgpt
+Samples in Test set: 417
+Accuracy: 0.801
+Human Precision: 0.739, Human Recall: 0.987, Human F1: 0.845
+Machine Precision: 0.973, Machine Recall: 0.574, Machine F1: 0.722
+----------------------------------
+Train on chatgpt, Validation on cohere with CL name chatgpt
+Samples in Validation set: 418
+Accuracy: 0.739
+Human Precision: 0.663, Human Recall: 1.000, Human F1: 0.797
+Machine Precision: 1.000, Machine Recall: 0.466, Machine F1: 0.635
+----------------------------------
+Train on chatgpt, Test on davinci with CL name chatgpt
+Samples in Test set: 550
+Accuracy: 0.851
+Human Precision: 0.780, Human Recall: 0.993, Human F1: 0.873
+Machine Precision: 0.989, Machine Recall: 0.698, Machine F1: 0.819
+----------------------------------
+Train on chatgpt, Validation on davinci with CL name chatgpt
+Samples in Validation set: 550
+Accuracy: 0.844
+Human Precision: 0.776, Human Recall: 0.990, Human F1: 0.870
+Machine Precision: 0.983, Machine Recall: 0.680, Machine F1: 0.804
+----------------------------------
+Train on chatgpt, Test on dolly with CL name chatgpt
+Samples in Test set: 490
+Accuracy: 0.714
+Human Precision: 0.643, Human Recall: 0.984, Human F1: 0.778
+Machine Precision: 0.963, Machine Recall: 0.436, Machine F1: 0.600
+----------------------------------
+Train on chatgpt, Validation on dolly with CL name chatgpt
+Samples in Validation set: 491
+Accuracy: 0.713
+Human Precision: 0.645, Human Recall: 0.996, Human F1: 0.783
+Machine Precision: 0.990, Machine Recall: 0.407, Machine F1: 0.577
+----------------------------------
+Train on cohere, Test on bloomz with CL name chatgpt
+Samples in Test set: 550
+Accuracy: 0.649
+Human Precision: 0.616, Human Recall: 0.860, Human F1: 0.717
+Machine Precision: 0.737, Machine Recall: 0.423, Machine F1: 0.537
+----------------------------------
+Train on cohere, Validation on bloomz with CL name chatgpt
+Samples in Validation set: 550
+Accuracy: 0.640
+Human Precision: 0.616, Human Recall: 0.849, Human F1: 0.714
+Machine Precision: 0.705, Machine Recall: 0.405, Machine F1: 0.515
+----------------------------------
+Train on cohere, Test on chatgpt with CL name chatgpt
+Samples in Test set: 549
+Accuracy: 0.942
+Human Precision: 0.989, Human Recall: 0.900, Human F1: 0.942
+Machine Precision: 0.898, Machine Recall: 0.988, Machine F1: 0.941
+----------------------------------
+Train on cohere, Validation on chatgpt with CL name chatgpt
+Samples in Validation set: 549
+Accuracy: 0.920
+Human Precision: 0.996, Human Recall: 0.840, Human F1: 0.911
+Machine Precision: 0.866, Machine Recall: 0.996, Machine F1: 0.927
+----------------------------------
+Train on cohere, Test on cohere with CL name chatgpt
+Samples in Test set: 417
+Accuracy: 0.839
+Human Precision: 0.840, Human Recall: 0.873, Human F1: 0.857
+Machine Precision: 0.838, Machine Recall: 0.798, Machine F1: 0.817
+----------------------------------
+Train on cohere, Validation on cohere with CL name chatgpt
+Samples in Validation set: 418
+Accuracy: 0.840
+Human Precision: 0.813, Human Recall: 0.893, Human F1: 0.851
+Machine Precision: 0.874, Machine Recall: 0.784, Machine F1: 0.827
+----------------------------------
+Train on cohere, Test on davinci with CL name chatgpt
+Samples in Test set: 550
+Accuracy: 0.913
+Human Precision: 0.922, Human Recall: 0.909, Human F1: 0.915
+Machine Precision: 0.903, Machine Recall: 0.917, Machine F1: 0.910
+----------------------------------
+Train on cohere, Validation on davinci with CL name chatgpt
+Samples in Validation set: 550
+Accuracy: 0.911
+Human Precision: 0.932, Human Recall: 0.897, Human F1: 0.914
+Machine Precision: 0.889, Machine Recall: 0.927, Machine F1: 0.907
+----------------------------------
+Train on cohere, Test on dolly with CL name chatgpt
+Samples in Test set: 490
+Accuracy: 0.773
+Human Precision: 0.732, Human Recall: 0.876, Human F1: 0.797
+Machine Precision: 0.839, Machine Recall: 0.668, Machine F1: 0.744
+----------------------------------
+Train on cohere, Validation on dolly with CL name chatgpt
+Samples in Validation set: 491
+Accuracy: 0.792
+Human Precision: 0.765, Human Recall: 0.867, Human F1: 0.812
+Machine Precision: 0.832, Machine Recall: 0.712, Machine F1: 0.767
+----------------------------------
+Train on davinci, Test on bloomz with CL name chatgpt
+Samples in Test set: 550
+Accuracy: 0.640
+Human Precision: 0.601, Human Recall: 0.905, Human F1: 0.723
+Machine Precision: 0.777, Machine Recall: 0.355, Machine F1: 0.487
+----------------------------------
+Train on davinci, Validation on bloomz with CL name chatgpt
+Samples in Validation set: 550
+Accuracy: 0.600
+Human Precision: 0.582, Human Recall: 0.866, Human F1: 0.696
+Machine Precision: 0.667, Machine Recall: 0.301, Machine F1: 0.415
+----------------------------------
+Train on davinci, Test on chatgpt with CL name chatgpt
+Samples in Test set: 549
+Accuracy: 0.958
+Human Precision: 0.986, Human Recall: 0.935, Human F1: 0.959
+Machine Precision: 0.930, Machine Recall: 0.984, Machine F1: 0.957
+----------------------------------
+Train on davinci, Validation on chatgpt with CL name chatgpt
+Samples in Validation set: 549
+Accuracy: 0.949
+Human Precision: 0.996, Human Recall: 0.900, Human F1: 0.945
+Machine Precision: 0.912, Machine Recall: 0.996, Machine F1: 0.952
+----------------------------------
+Train on davinci, Test on cohere with CL name chatgpt
+Samples in Test set: 417
+Accuracy: 0.861
+Human Precision: 0.841, Human Recall: 0.921, Human F1: 0.879
+Machine Precision: 0.892, Machine Recall: 0.787, Machine F1: 0.836
+----------------------------------
+Train on davinci, Validation on cohere with CL name chatgpt
+Samples in Validation set: 418
+Accuracy: 0.844
+Human Precision: 0.799, Human Recall: 0.930, Human F1: 0.860
+Machine Precision: 0.911, Machine Recall: 0.755, Machine F1: 0.826
+----------------------------------
+Train on davinci, Test on davinci with CL name chatgpt
+Samples in Test set: 550
+Accuracy: 0.887
+Human Precision: 0.883, Human Recall: 0.902, Human F1: 0.892
+Machine Precision: 0.892, Machine Recall: 0.872, Machine F1: 0.882
+----------------------------------
+Train on davinci, Validation on davinci with CL name chatgpt
+Samples in Validation set: 550
+Accuracy: 0.907
+Human Precision: 0.917, Human Recall: 0.907, Human F1: 0.912
+Machine Precision: 0.897, Machine Recall: 0.907, Machine F1: 0.902
+----------------------------------
+Train on davinci, Test on dolly with CL name chatgpt
+Samples in Test set: 490
+Accuracy: 0.780
+Human Precision: 0.722, Human Recall: 0.920, Human F1: 0.809
+Machine Precision: 0.884, Machine Recall: 0.635, Machine F1: 0.739
+----------------------------------
+Train on davinci, Validation on dolly with CL name chatgpt
+Samples in Validation set: 491
+Accuracy: 0.774
+Human Precision: 0.722, Human Recall: 0.918, Human F1: 0.808
+Machine Precision: 0.874, Machine Recall: 0.619, Machine F1: 0.725
+----------------------------------
+Train on dolly, Test on bloomz with CL name chatgpt
+Samples in Test set: 550
+Accuracy: 0.644
+Human Precision: 0.618, Human Recall: 0.818, Human F1: 0.704
+Machine Precision: 0.699, Machine Recall: 0.457, Machine F1: 0.553
+----------------------------------
+Train on dolly, Validation on bloomz with CL name chatgpt
+Samples in Validation set: 550
+Accuracy: 0.633
+Human Precision: 0.617, Human Recall: 0.808, Human F1: 0.699
+Machine Precision: 0.669, Machine Recall: 0.436, Machine F1: 0.528
+----------------------------------
+Train on dolly, Test on chatgpt with CL name chatgpt
+Samples in Test set: 549
+Accuracy: 0.922
+Human Precision: 0.984, Human Recall: 0.866, Human F1: 0.921
+Machine Precision: 0.867, Machine Recall: 0.984, Machine F1: 0.922
+----------------------------------
+Train on dolly, Validation on chatgpt with CL name chatgpt
+Samples in Validation set: 549
+Accuracy: 0.911
+Human Precision: 0.991, Human Recall: 0.825, Human F1: 0.901
+Machine Precision: 0.855, Machine Recall: 0.993, Machine F1: 0.919
+----------------------------------
+Train on dolly, Test on cohere with CL name chatgpt
+Samples in Test set: 417
+Accuracy: 0.823
+Human Precision: 0.857, Human Recall: 0.812, Human F1: 0.834
+Machine Precision: 0.785, Machine Recall: 0.835, Machine F1: 0.809
+----------------------------------
+Train on dolly, Validation on cohere with CL name chatgpt
+Samples in Validation set: 418
+Accuracy: 0.830
+Human Precision: 0.824, Human Recall: 0.850, Human F1: 0.837
+Machine Precision: 0.838, Machine Recall: 0.809, Machine F1: 0.823
+----------------------------------
+Train on dolly, Test on davinci with CL name chatgpt
+Samples in Test set: 550
+Accuracy: 0.873
+Human Precision: 0.915, Human Recall: 0.832, Human F1: 0.871
+Machine Precision: 0.835, Machine Recall: 0.917, Machine F1: 0.874
+----------------------------------
+Train on dolly, Validation on davinci with CL name chatgpt
+Samples in Validation set: 550
+Accuracy: 0.891
+Human Precision: 0.933, Human Recall: 0.856, Human F1: 0.892
+Machine Precision: 0.852, Machine Recall: 0.931, Machine F1: 0.889
+----------------------------------
+Train on dolly, Test on dolly with CL name chatgpt
+Samples in Test set: 490
+Accuracy: 0.749
+Human Precision: 0.735, Human Recall: 0.791, Human F1: 0.762
+Machine Precision: 0.766, Machine Recall: 0.705, Machine F1: 0.734
+----------------------------------
+Train on dolly, Validation on dolly with CL name chatgpt
+Samples in Validation set: 491
+Accuracy: 0.764
+Human Precision: 0.755, Human Recall: 0.808, Human F1: 0.780
+Machine Precision: 0.775, Machine Recall: 0.716, Machine F1: 0.744
+----------------------------------

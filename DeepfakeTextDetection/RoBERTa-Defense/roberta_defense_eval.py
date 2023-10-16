@@ -151,7 +151,7 @@ def main():
     with jsonlines.open(args.test_dir, 'r') as input_articles:
         for article in input_articles:
             # if((article['split'] == 'test') and article['orig_split'] == 'gen'):
-            all_articles_test.append(article['article'])
+            all_articles_test.append(article['text'])
             labels.append(article['label'])
 
     encoded_article = tokenizer.batch_encode_plus(

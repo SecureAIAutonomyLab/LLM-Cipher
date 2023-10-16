@@ -1,0 +1,17 @@
+[[6625   25]
+ [ 164 6540]]
+              precision    recall  f1-score   support
+
+       human       0.98      1.00      0.99      6650
+     machine       1.00      0.98      0.99      6704
+
+    accuracy                           0.99     13354
+   macro avg       0.99      0.99      0.99     13354
+weighted avg       0.99      0.99      0.99     13354
+
+
+Average Logit for class human: 6.9516
+Standard Deviation of Logit for class human: 11.3211
+Average Logit for class machine: 44.7071
+Standard Deviation of Logit for class machine: 43.0155
+

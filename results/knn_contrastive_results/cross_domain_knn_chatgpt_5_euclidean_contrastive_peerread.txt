@@ -1,0 +1,300 @@
+Train on arxiv, Test on arxiv with CL name peerread
+Samples in Test set: 550
+Accuracy: 0.942
+Human Precision: 0.935, Human Recall: 0.954, Human F1: 0.944
+Machine Precision: 0.950, Machine Recall: 0.928, Machine F1: 0.939
+----------------------------------
+Train on arxiv, Validation on arxiv with CL name peerread
+Samples in Validation set: 550
+Accuracy: 0.947
+Human Precision: 0.952, Human Recall: 0.948, Human F1: 0.950
+Machine Precision: 0.942, Machine Recall: 0.946, Machine F1: 0.944
+----------------------------------
+Train on arxiv, Test on peerread with CL name peerread
+Samples in Test set: 67
+Accuracy: 0.940
+Human Precision: 0.917, Human Recall: 1.000, Human F1: 0.957
+Machine Precision: 1.000, Machine Recall: 0.826, Machine F1: 0.905
+----------------------------------
+Train on arxiv, Validation on peerread with CL name peerread
+Samples in Validation set: 68
+Accuracy: 0.971
+Human Precision: 0.943, Human Recall: 1.000, Human F1: 0.971
+Machine Precision: 1.000, Machine Recall: 0.943, Machine F1: 0.971
+----------------------------------
+Train on arxiv, Test on reddit with CL name peerread
+Samples in Test set: 550
+Accuracy: 0.909
+Human Precision: 0.921, Human Recall: 0.902, Human F1: 0.911
+Machine Precision: 0.897, Machine Recall: 0.917, Machine F1: 0.907
+----------------------------------
+Train on arxiv, Validation on reddit with CL name peerread
+Samples in Validation set: 550
+Accuracy: 0.891
+Human Precision: 0.892, Human Recall: 0.904, Human F1: 0.898
+Machine Precision: 0.890, Machine Recall: 0.876, Machine F1: 0.883
+----------------------------------
+Train on arxiv, Test on wikihow with CL name peerread
+Samples in Test set: 550
+Accuracy: 0.744
+Human Precision: 0.896, Human Recall: 0.572, Human F1: 0.698
+Machine Precision: 0.668, Machine Recall: 0.928, Machine F1: 0.777
+----------------------------------
+Train on arxiv, Validation on wikihow with CL name peerread
+Samples in Validation set: 550
+Accuracy: 0.722
+Human Precision: 0.931, Human Recall: 0.512, Human F1: 0.661
+Machine Precision: 0.636, Machine Recall: 0.958, Machine F1: 0.764
+----------------------------------
+Train on arxiv, Test on wikipedia with CL name peerread
+Samples in Test set: 549
+Accuracy: 0.854
+Human Precision: 0.917, Human Recall: 0.797, Human F1: 0.853
+Machine Precision: 0.801, Machine Recall: 0.919, Machine F1: 0.856
+----------------------------------
+Train on arxiv, Validation on wikipedia with CL name peerread
+Samples in Validation set: 549
+Accuracy: 0.867
+Human Precision: 0.926, Human Recall: 0.792, Human F1: 0.854
+Machine Precision: 0.824, Machine Recall: 0.939, Machine F1: 0.878
+----------------------------------
+Train on peerread, Test on arxiv with CL name peerread
+Samples in Test set: 550
+Accuracy: 0.885
+Human Precision: 0.987, Human Recall: 0.789, Human F1: 0.877
+Machine Precision: 0.814, Machine Recall: 0.989, Machine F1: 0.893
+----------------------------------
+Train on peerread, Validation on arxiv with CL name peerread
+Samples in Validation set: 550
+Accuracy: 0.887
+Human Precision: 0.996, Human Recall: 0.790, Human F1: 0.881
+Machine Precision: 0.809, Machine Recall: 0.996, Machine F1: 0.893
+----------------------------------
+Train on peerread, Test on peerread with CL name peerread
+Samples in Test set: 67
+Accuracy: 1.000
+Human Precision: 1.000, Human Recall: 1.000, Human F1: 1.000
+Machine Precision: 1.000, Machine Recall: 1.000, Machine F1: 1.000
+----------------------------------
+Train on peerread, Validation on peerread with CL name peerread
+Samples in Validation set: 68
+Accuracy: 0.985
+Human Precision: 1.000, Human Recall: 0.970, Human F1: 0.985
+Machine Precision: 0.972, Machine Recall: 1.000, Machine F1: 0.986
+----------------------------------
+Train on peerread, Test on reddit with CL name peerread
+Samples in Test set: 550
+Accuracy: 0.847
+Human Precision: 0.972, Human Recall: 0.726, Human F1: 0.831
+Machine Precision: 0.769, Machine Recall: 0.977, Machine F1: 0.860
+----------------------------------
+Train on peerread, Validation on reddit with CL name peerread
+Samples in Validation set: 550
+Accuracy: 0.853
+Human Precision: 0.969, Human Recall: 0.746, Human F1: 0.843
+Machine Precision: 0.773, Machine Recall: 0.973, Machine F1: 0.862
+----------------------------------
+Train on peerread, Test on wikihow with CL name peerread
+Samples in Test set: 550
+Accuracy: 0.640
+Human Precision: 0.939, Human Recall: 0.326, Human F1: 0.484
+Machine Precision: 0.574, Machine Recall: 0.977, Machine F1: 0.723
+----------------------------------
+Train on peerread, Validation on wikihow with CL name peerread
+Samples in Validation set: 550
+Accuracy: 0.613
+Human Precision: 0.988, Human Recall: 0.271, Human F1: 0.426
+Machine Precision: 0.549, Machine Recall: 0.996, Machine F1: 0.708
+----------------------------------
+Train on peerread, Test on wikipedia with CL name peerread
+Samples in Test set: 549
+Accuracy: 0.754
+Human Precision: 0.976, Human Recall: 0.550, Human F1: 0.703
+Machine Precision: 0.660, Machine Recall: 0.984, Machine F1: 0.790
+----------------------------------
+Train on peerread, Validation on wikipedia with CL name peerread
+Samples in Validation set: 549
+Accuracy: 0.780
+Human Precision: 0.987, Human Recall: 0.558, Human F1: 0.713
+Machine Precision: 0.700, Machine Recall: 0.993, Machine F1: 0.821
+----------------------------------
+Train on reddit, Test on arxiv with CL name peerread
+Samples in Test set: 550
+Accuracy: 0.949
+Human Precision: 0.954, Human Recall: 0.947, Human F1: 0.951
+Machine Precision: 0.944, Machine Recall: 0.951, Machine F1: 0.947
+----------------------------------
+Train on reddit, Validation on arxiv with CL name peerread
+Samples in Validation set: 550
+Accuracy: 0.938
+Human Precision: 0.951, Human Recall: 0.931, Human F1: 0.941
+Machine Precision: 0.925, Machine Recall: 0.946, Machine F1: 0.935
+----------------------------------
+Train on reddit, Test on peerread with CL name peerread
+Samples in Test set: 67
+Accuracy: 0.970
+Human Precision: 0.957, Human Recall: 1.000, Human F1: 0.978
+Machine Precision: 1.000, Machine Recall: 0.913, Machine F1: 0.955
+----------------------------------
+Train on reddit, Validation on peerread with CL name peerread
+Samples in Validation set: 68
+Accuracy: 0.926
+Human Precision: 0.868, Human Recall: 1.000, Human F1: 0.930
+Machine Precision: 1.000, Machine Recall: 0.857, Machine F1: 0.923
+----------------------------------
+Train on reddit, Test on reddit with CL name peerread
+Samples in Test set: 550
+Accuracy: 0.907
+Human Precision: 0.915, Human Recall: 0.905, Human F1: 0.910
+Machine Precision: 0.899, Machine Recall: 0.909, Machine F1: 0.904
+----------------------------------
+Train on reddit, Validation on reddit with CL name peerread
+Samples in Validation set: 550
+Accuracy: 0.905
+Human Precision: 0.905, Human Recall: 0.918, Human F1: 0.911
+Machine Precision: 0.906, Machine Recall: 0.892, Machine F1: 0.899
+----------------------------------
+Train on reddit, Test on wikihow with CL name peerread
+Samples in Test set: 550
+Accuracy: 0.722
+Human Precision: 0.879, Human Recall: 0.537, Human F1: 0.667
+Machine Precision: 0.649, Machine Recall: 0.921, Machine F1: 0.761
+----------------------------------
+Train on reddit, Validation on wikihow with CL name peerread
+Samples in Validation set: 550
+Accuracy: 0.720
+Human Precision: 0.931, Human Recall: 0.509, Human F1: 0.658
+Machine Precision: 0.634, Machine Recall: 0.958, Machine F1: 0.763
+----------------------------------
+Train on reddit, Test on wikipedia with CL name peerread
+Samples in Test set: 549
+Accuracy: 0.851
+Human Precision: 0.913, Human Recall: 0.794, Human F1: 0.849
+Machine Precision: 0.797, Machine Recall: 0.915, Machine F1: 0.852
+----------------------------------
+Train on reddit, Validation on wikipedia with CL name peerread
+Samples in Validation set: 549
+Accuracy: 0.865
+Human Precision: 0.941, Human Recall: 0.773, Human F1: 0.849
+Machine Precision: 0.814, Machine Recall: 0.954, Machine F1: 0.878
+----------------------------------
+Train on wikihow, Test on arxiv with CL name peerread
+Samples in Test set: 550
+Accuracy: 0.804
+Human Precision: 0.731, Human Recall: 0.982, Human F1: 0.838
+Machine Precision: 0.970, Machine Recall: 0.611, Machine F1: 0.750
+----------------------------------
+Train on wikihow, Validation on arxiv with CL name peerread
+Samples in Validation set: 550
+Accuracy: 0.785
+Human Precision: 0.720, Human Recall: 0.973, Human F1: 0.827
+Machine Precision: 0.949, Machine Recall: 0.575, Machine F1: 0.716
+----------------------------------
+Train on wikihow, Test on peerread with CL name peerread
+Samples in Test set: 67
+Accuracy: 0.821
+Human Precision: 0.786, Human Recall: 1.000, Human F1: 0.880
+Machine Precision: 1.000, Machine Recall: 0.478, Machine F1: 0.647
+----------------------------------
+Train on wikihow, Validation on peerread with CL name peerread
+Samples in Validation set: 68
+Accuracy: 0.706
+Human Precision: 0.623, Human Recall: 1.000, Human F1: 0.767
+Machine Precision: 1.000, Machine Recall: 0.429, Machine F1: 0.600
+----------------------------------
+Train on wikihow, Test on reddit with CL name peerread
+Samples in Test set: 550
+Accuracy: 0.813
+Human Precision: 0.742, Human Recall: 0.979, Human F1: 0.844
+Machine Precision: 0.966, Machine Recall: 0.634, Machine F1: 0.765
+----------------------------------
+Train on wikihow, Validation on reddit with CL name peerread
+Samples in Validation set: 550
+Accuracy: 0.796
+Human Precision: 0.731, Human Recall: 0.973, Human F1: 0.835
+Machine Precision: 0.951, Machine Recall: 0.598, Machine F1: 0.735
+----------------------------------
+Train on wikihow, Test on wikihow with CL name peerread
+Samples in Test set: 550
+Accuracy: 0.725
+Human Precision: 0.723, Human Recall: 0.761, Human F1: 0.742
+Machine Precision: 0.728, Machine Recall: 0.687, Machine F1: 0.707
+----------------------------------
+Train on wikihow, Validation on wikihow with CL name peerread
+Samples in Validation set: 550
+Accuracy: 0.744
+Human Precision: 0.768, Human Recall: 0.739, Human F1: 0.753
+Machine Precision: 0.719, Machine Recall: 0.749, Machine F1: 0.733
+----------------------------------
+Train on wikihow, Test on wikipedia with CL name peerread
+Samples in Test set: 549
+Accuracy: 0.774
+Human Precision: 0.720, Human Recall: 0.938, Human F1: 0.815
+Machine Precision: 0.894, Machine Recall: 0.589, Machine F1: 0.710
+----------------------------------
+Train on wikihow, Validation on wikipedia with CL name peerread
+Samples in Validation set: 549
+Accuracy: 0.774
+Human Precision: 0.707, Human Recall: 0.922, Human F1: 0.800
+Machine Precision: 0.894, Machine Recall: 0.632, Machine F1: 0.741
+----------------------------------
+Train on wikipedia, Test on arxiv with CL name peerread
+Samples in Test set: 550
+Accuracy: 0.925
+Human Precision: 0.901, Human Recall: 0.961, Human F1: 0.930
+Machine Precision: 0.955, Machine Recall: 0.887, Machine F1: 0.920
+----------------------------------
+Train on wikipedia, Validation on arxiv with CL name peerread
+Samples in Validation set: 550
+Accuracy: 0.902
+Human Precision: 0.865, Human Recall: 0.966, Human F1: 0.912
+Machine Precision: 0.956, Machine Recall: 0.830, Machine F1: 0.888
+----------------------------------
+Train on wikipedia, Test on peerread with CL name peerread
+Samples in Test set: 67
+Accuracy: 0.940
+Human Precision: 0.917, Human Recall: 1.000, Human F1: 0.957
+Machine Precision: 1.000, Machine Recall: 0.826, Machine F1: 0.905
+----------------------------------
+Train on wikipedia, Validation on peerread with CL name peerread
+Samples in Validation set: 68
+Accuracy: 0.882
+Human Precision: 0.805, Human Recall: 1.000, Human F1: 0.892
+Machine Precision: 1.000, Machine Recall: 0.771, Machine F1: 0.871
+----------------------------------
+Train on wikipedia, Test on reddit with CL name peerread
+Samples in Test set: 550
+Accuracy: 0.889
+Human Precision: 0.866, Human Recall: 0.930, Human F1: 0.897
+Machine Precision: 0.918, Machine Recall: 0.845, Machine F1: 0.880
+----------------------------------
+Train on wikipedia, Validation on reddit with CL name peerread
+Samples in Validation set: 550
+Accuracy: 0.873
+Human Precision: 0.851, Human Recall: 0.921, Human F1: 0.884
+Machine Precision: 0.902, Machine Recall: 0.819, Machine F1: 0.858
+----------------------------------
+Train on wikipedia, Test on wikihow with CL name peerread
+Samples in Test set: 550
+Accuracy: 0.731
+Human Precision: 0.822, Human Recall: 0.614, Human F1: 0.703
+Machine Precision: 0.674, Machine Recall: 0.857, Machine F1: 0.754
+----------------------------------
+Train on wikipedia, Validation on wikihow with CL name peerread
+Samples in Validation set: 550
+Accuracy: 0.740
+Human Precision: 0.874, Human Recall: 0.595, Human F1: 0.708
+Machine Precision: 0.665, Machine Recall: 0.903, Machine F1: 0.766
+----------------------------------
+Train on wikipedia, Test on wikipedia with CL name peerread
+Samples in Test set: 549
+Accuracy: 0.838
+Human Precision: 0.846, Human Recall: 0.849, Human F1: 0.847
+Machine Precision: 0.829, Machine Recall: 0.826, Machine F1: 0.827
+----------------------------------
+Train on wikipedia, Validation on wikipedia with CL name peerread
+Samples in Validation set: 549
+Accuracy: 0.858
+Human Precision: 0.869, Human Recall: 0.836, Human F1: 0.852
+Machine Precision: 0.848, Machine Recall: 0.879, Machine F1: 0.863
+----------------------------------

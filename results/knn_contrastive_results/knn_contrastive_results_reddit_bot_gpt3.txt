@@ -1,0 +1,10 @@
+Results for reddit_bot_gpt3:
+Accuracy: 0.812
+Human Precision: 0.891, Human Recall: 0.710, Human F1: 0.790
+Machine Precision: 0.759, Machine Recall: 0.913, Machine F1: 0.829
+----------------------------------
+Results for reddit_bot_gpt3:
+Accuracy: 0.812
+Human Precision: 0.891, Human Recall: 0.710, Human F1: 0.790
+Machine Precision: 0.759, Machine Recall: 0.913, Machine F1: 0.829
+----------------------------------

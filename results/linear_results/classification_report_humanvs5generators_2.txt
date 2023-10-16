@@ -1,0 +1,12 @@
+              precision    recall  f1-score   support
+
+      bloomz      0.982     0.973     0.977      1272
+     chatgpt      0.889     0.856     0.872      1247
+      cohere      0.846     0.909     0.876      1034
+     davinci      0.847     0.824     0.836      1261
+       dolly      0.847     0.798     0.822      1225
+       human      0.982     0.995     0.988      6656
+
+    accuracy                          0.936     12695
+   macro avg      0.899     0.893     0.895     12695
+weighted avg      0.935     0.936     0.935     12695

@@ -1,0 +1,5 @@
+Results for ai_writer:
+Accuracy: 0.697
+Human Precision: 0.836, Human Recall: 0.791, Human F1: 0.813
+Machine Precision: 0.177, Machine Recall: 0.225, Machine F1: 0.198
+----------------------------------

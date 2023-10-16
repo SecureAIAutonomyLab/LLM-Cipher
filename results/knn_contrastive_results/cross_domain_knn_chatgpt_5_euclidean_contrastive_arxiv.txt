@@ -1,0 +1,300 @@
+Train on arxiv, Test on arxiv with CL name arxiv
+Samples in Test set: 550
+Accuracy: 0.875
+Human Precision: 0.872, Human Recall: 0.888, Human F1: 0.880
+Machine Precision: 0.877, Machine Recall: 0.860, Machine F1: 0.869
+----------------------------------
+Train on arxiv, Validation on arxiv with CL name arxiv
+Samples in Validation set: 550
+Accuracy: 0.833
+Human Precision: 0.844, Human Recall: 0.838, Human F1: 0.841
+Machine Precision: 0.820, Machine Recall: 0.826, Machine F1: 0.823
+----------------------------------
+Train on arxiv, Test on peerread with CL name arxiv
+Samples in Test set: 67
+Accuracy: 0.597
+Human Precision: 0.707, Human Recall: 0.659, Human F1: 0.682
+Machine Precision: 0.423, Machine Recall: 0.478, Machine F1: 0.449
+----------------------------------
+Train on arxiv, Validation on peerread with CL name arxiv
+Samples in Validation set: 68
+Accuracy: 0.574
+Human Precision: 0.550, Human Recall: 0.667, Human F1: 0.603
+Machine Precision: 0.607, Machine Recall: 0.486, Machine F1: 0.540
+----------------------------------
+Train on arxiv, Test on reddit with CL name arxiv
+Samples in Test set: 550
+Accuracy: 0.693
+Human Precision: 0.681, Human Recall: 0.765, Human F1: 0.721
+Machine Precision: 0.709, Machine Recall: 0.615, Machine F1: 0.659
+----------------------------------
+Train on arxiv, Validation on reddit with CL name arxiv
+Samples in Validation set: 550
+Accuracy: 0.682
+Human Precision: 0.685, Human Recall: 0.739, Human F1: 0.711
+Machine Precision: 0.678, Machine Recall: 0.618, Machine F1: 0.646
+----------------------------------
+Train on arxiv, Test on wikihow with CL name arxiv
+Samples in Test set: 550
+Accuracy: 0.647
+Human Precision: 0.667, Human Recall: 0.639, Human F1: 0.652
+Machine Precision: 0.628, Machine Recall: 0.657, Machine F1: 0.642
+----------------------------------
+Train on arxiv, Validation on wikihow with CL name arxiv
+Samples in Validation set: 550
+Accuracy: 0.631
+Human Precision: 0.671, Human Recall: 0.595, Human F1: 0.630
+Machine Precision: 0.596, Machine Recall: 0.672, Machine F1: 0.632
+----------------------------------
+Train on arxiv, Test on wikipedia with CL name arxiv
+Samples in Test set: 549
+Accuracy: 0.654
+Human Precision: 0.746, Human Recall: 0.526, Human F1: 0.617
+Machine Precision: 0.599, Machine Recall: 0.798, Machine F1: 0.684
+----------------------------------
+Train on arxiv, Validation on wikipedia with CL name arxiv
+Samples in Validation set: 549
+Accuracy: 0.685
+Human Precision: 0.738, Human Recall: 0.554, Human F1: 0.633
+Machine Precision: 0.654, Machine Recall: 0.811, Machine F1: 0.724
+----------------------------------
+Train on peerread, Test on arxiv with CL name arxiv
+Samples in Test set: 550
+Accuracy: 0.822
+Human Precision: 0.888, Human Recall: 0.751, Human F1: 0.814
+Machine Precision: 0.770, Machine Recall: 0.898, Machine F1: 0.829
+----------------------------------
+Train on peerread, Validation on arxiv with CL name arxiv
+Samples in Validation set: 550
+Accuracy: 0.822
+Human Precision: 0.881, Human Recall: 0.766, Human F1: 0.820
+Machine Precision: 0.771, Machine Recall: 0.884, Machine F1: 0.824
+----------------------------------
+Train on peerread, Test on peerread with CL name arxiv
+Samples in Test set: 67
+Accuracy: 0.642
+Human Precision: 0.794, Human Recall: 0.614, Human F1: 0.692
+Machine Precision: 0.485, Machine Recall: 0.696, Machine F1: 0.571
+----------------------------------
+Train on peerread, Validation on peerread with CL name arxiv
+Samples in Validation set: 68
+Accuracy: 0.647
+Human Precision: 0.667, Human Recall: 0.545, Human F1: 0.600
+Machine Precision: 0.634, Machine Recall: 0.743, Machine F1: 0.684
+----------------------------------
+Train on peerread, Test on reddit with CL name arxiv
+Samples in Test set: 550
+Accuracy: 0.682
+Human Precision: 0.712, Human Recall: 0.649, Human F1: 0.679
+Machine Precision: 0.655, Machine Recall: 0.717, Machine F1: 0.685
+----------------------------------
+Train on peerread, Validation on reddit with CL name arxiv
+Samples in Validation set: 550
+Accuracy: 0.642
+Human Precision: 0.674, Human Recall: 0.625, Human F1: 0.649
+Machine Precision: 0.611, Machine Recall: 0.660, Machine F1: 0.635
+----------------------------------
+Train on peerread, Test on wikihow with CL name arxiv
+Samples in Test set: 550
+Accuracy: 0.625
+Human Precision: 0.676, Human Recall: 0.533, Human F1: 0.596
+Machine Precision: 0.591, Machine Recall: 0.725, Machine F1: 0.651
+----------------------------------
+Train on peerread, Validation on wikihow with CL name arxiv
+Samples in Validation set: 550
+Accuracy: 0.598
+Human Precision: 0.665, Human Recall: 0.485, Human F1: 0.561
+Machine Precision: 0.556, Machine Recall: 0.726, Machine F1: 0.630
+----------------------------------
+Train on peerread, Test on wikipedia with CL name arxiv
+Samples in Test set: 549
+Accuracy: 0.628
+Human Precision: 0.764, Human Recall: 0.433, Human F1: 0.553
+Machine Precision: 0.570, Machine Recall: 0.849, Machine F1: 0.682
+----------------------------------
+Train on peerread, Validation on wikipedia with CL name arxiv
+Samples in Validation set: 549
+Accuracy: 0.672
+Human Precision: 0.773, Human Recall: 0.468, Human F1: 0.583
+Machine Precision: 0.630, Machine Recall: 0.868, Machine F1: 0.730
+----------------------------------
+Train on reddit, Test on arxiv with CL name arxiv
+Samples in Test set: 550
+Accuracy: 0.776
+Human Precision: 0.835, Human Recall: 0.709, Human F1: 0.767
+Machine Precision: 0.731, Machine Recall: 0.849, Machine F1: 0.785
+----------------------------------
+Train on reddit, Validation on arxiv with CL name arxiv
+Samples in Validation set: 550
+Accuracy: 0.751
+Human Precision: 0.808, Human Recall: 0.694, Human F1: 0.747
+Machine Precision: 0.703, Machine Recall: 0.815, Machine F1: 0.755
+----------------------------------
+Train on reddit, Test on peerread with CL name arxiv
+Samples in Test set: 67
+Accuracy: 0.463
+Human Precision: 0.625, Human Recall: 0.455, Human F1: 0.526
+Machine Precision: 0.314, Machine Recall: 0.478, Machine F1: 0.379
+----------------------------------
+Train on reddit, Validation on peerread with CL name arxiv
+Samples in Validation set: 68
+Accuracy: 0.574
+Human Precision: 0.562, Human Recall: 0.545, Human F1: 0.554
+Machine Precision: 0.583, Machine Recall: 0.600, Machine F1: 0.592
+----------------------------------
+Train on reddit, Test on reddit with CL name arxiv
+Samples in Test set: 550
+Accuracy: 0.651
+Human Precision: 0.673, Human Recall: 0.635, Human F1: 0.653
+Machine Precision: 0.630, Machine Recall: 0.668, Machine F1: 0.648
+----------------------------------
+Train on reddit, Validation on reddit with CL name arxiv
+Samples in Validation set: 550
+Accuracy: 0.629
+Human Precision: 0.656, Human Recall: 0.629, Human F1: 0.642
+Machine Precision: 0.601, Machine Recall: 0.629, Machine F1: 0.615
+----------------------------------
+Train on reddit, Test on wikihow with CL name arxiv
+Samples in Test set: 550
+Accuracy: 0.607
+Human Precision: 0.658, Human Recall: 0.505, Human F1: 0.571
+Machine Precision: 0.574, Machine Recall: 0.717, Machine F1: 0.638
+----------------------------------
+Train on reddit, Validation on wikihow with CL name arxiv
+Samples in Validation set: 550
+Accuracy: 0.613
+Human Precision: 0.673, Human Recall: 0.522, Human F1: 0.588
+Machine Precision: 0.571, Machine Recall: 0.714, Machine F1: 0.635
+----------------------------------
+Train on reddit, Test on wikipedia with CL name arxiv
+Samples in Test set: 549
+Accuracy: 0.610
+Human Precision: 0.723, Human Recall: 0.430, Human F1: 0.539
+Machine Precision: 0.559, Machine Recall: 0.814, Machine F1: 0.662
+----------------------------------
+Train on reddit, Validation on wikipedia with CL name arxiv
+Samples in Validation set: 549
+Accuracy: 0.638
+Human Precision: 0.699, Human Recall: 0.457, Human F1: 0.553
+Machine Precision: 0.609, Machine Recall: 0.811, Machine F1: 0.695
+----------------------------------
+Train on wikihow, Test on arxiv with CL name arxiv
+Samples in Test set: 550
+Accuracy: 0.733
+Human Precision: 0.735, Human Recall: 0.758, Human F1: 0.746
+Machine Precision: 0.730, Machine Recall: 0.706, Machine F1: 0.718
+----------------------------------
+Train on wikihow, Validation on arxiv with CL name arxiv
+Samples in Validation set: 550
+Accuracy: 0.718
+Human Precision: 0.727, Human Recall: 0.749, Human F1: 0.738
+Machine Precision: 0.708, Machine Recall: 0.683, Machine F1: 0.695
+----------------------------------
+Train on wikihow, Test on peerread with CL name arxiv
+Samples in Test set: 67
+Accuracy: 0.522
+Human Precision: 0.667, Human Recall: 0.545, Human F1: 0.600
+Machine Precision: 0.355, Machine Recall: 0.478, Machine F1: 0.407
+----------------------------------
+Train on wikihow, Validation on peerread with CL name arxiv
+Samples in Validation set: 68
+Accuracy: 0.676
+Human Precision: 0.649, Human Recall: 0.727, Human F1: 0.686
+Machine Precision: 0.710, Machine Recall: 0.629, Machine F1: 0.667
+----------------------------------
+Train on wikihow, Test on reddit with CL name arxiv
+Samples in Test set: 550
+Accuracy: 0.613
+Human Precision: 0.613, Human Recall: 0.684, Human F1: 0.647
+Machine Precision: 0.612, Machine Recall: 0.536, Machine F1: 0.571
+----------------------------------
+Train on wikihow, Validation on reddit with CL name arxiv
+Samples in Validation set: 550
+Accuracy: 0.631
+Human Precision: 0.633, Human Recall: 0.722, Human F1: 0.674
+Machine Precision: 0.628, Machine Recall: 0.529, Machine F1: 0.574
+----------------------------------
+Train on wikihow, Test on wikihow with CL name arxiv
+Samples in Test set: 550
+Accuracy: 0.620
+Human Precision: 0.633, Human Recall: 0.635, Human F1: 0.634
+Machine Precision: 0.606, Machine Recall: 0.604, Machine F1: 0.605
+----------------------------------
+Train on wikihow, Validation on wikihow with CL name arxiv
+Samples in Validation set: 550
+Accuracy: 0.576
+Human Precision: 0.598, Human Recall: 0.608, Human F1: 0.603
+Machine Precision: 0.551, Machine Recall: 0.541, Machine F1: 0.546
+----------------------------------
+Train on wikihow, Test on wikipedia with CL name arxiv
+Samples in Test set: 549
+Accuracy: 0.603
+Human Precision: 0.653, Human Recall: 0.536, Human F1: 0.589
+Machine Precision: 0.565, Machine Recall: 0.678, Machine F1: 0.616
+----------------------------------
+Train on wikihow, Validation on wikipedia with CL name arxiv
+Samples in Validation set: 549
+Accuracy: 0.592
+Human Precision: 0.591, Human Recall: 0.543, Human F1: 0.566
+Machine Precision: 0.593, Machine Recall: 0.639, Machine F1: 0.615
+----------------------------------
+Train on wikipedia, Test on arxiv with CL name arxiv
+Samples in Test set: 550
+Accuracy: 0.782
+Human Precision: 0.745, Human Recall: 0.881, Human F1: 0.807
+Machine Precision: 0.840, Machine Recall: 0.675, Machine F1: 0.749
+----------------------------------
+Train on wikipedia, Validation on arxiv with CL name arxiv
+Samples in Validation set: 550
+Accuracy: 0.785
+Human Precision: 0.766, Human Recall: 0.856, Human F1: 0.808
+Machine Precision: 0.813, Machine Recall: 0.707, Machine F1: 0.756
+----------------------------------
+Train on wikipedia, Test on peerread with CL name arxiv
+Samples in Test set: 67
+Accuracy: 0.672
+Human Precision: 0.696, Human Recall: 0.886, Human F1: 0.780
+Machine Precision: 0.545, Machine Recall: 0.261, Machine F1: 0.353
+----------------------------------
+Train on wikipedia, Validation on peerread with CL name arxiv
+Samples in Validation set: 68
+Accuracy: 0.544
+Human Precision: 0.524, Human Recall: 0.667, Human F1: 0.587
+Machine Precision: 0.577, Machine Recall: 0.429, Machine F1: 0.492
+----------------------------------
+Train on wikipedia, Test on reddit with CL name arxiv
+Samples in Test set: 550
+Accuracy: 0.651
+Human Precision: 0.627, Human Recall: 0.804, Human F1: 0.705
+Machine Precision: 0.697, Machine Recall: 0.487, Machine F1: 0.573
+----------------------------------
+Train on wikipedia, Validation on reddit with CL name arxiv
+Samples in Validation set: 550
+Accuracy: 0.616
+Human Precision: 0.612, Human Recall: 0.749, Human F1: 0.674
+Machine Precision: 0.624, Machine Recall: 0.467, Machine F1: 0.534
+----------------------------------
+Train on wikipedia, Test on wikihow with CL name arxiv
+Samples in Test set: 550
+Accuracy: 0.622
+Human Precision: 0.620, Human Recall: 0.698, Human F1: 0.657
+Machine Precision: 0.624, Machine Recall: 0.540, Machine F1: 0.579
+----------------------------------
+Train on wikipedia, Validation on wikihow with CL name arxiv
+Samples in Validation set: 550
+Accuracy: 0.604
+Human Precision: 0.616, Human Recall: 0.667, Human F1: 0.640
+Machine Precision: 0.587, Machine Recall: 0.533, Machine F1: 0.559
+----------------------------------
+Train on wikipedia, Test on wikipedia with CL name arxiv
+Samples in Test set: 549
+Accuracy: 0.630
+Human Precision: 0.675, Human Recall: 0.584, Human F1: 0.626
+Machine Precision: 0.593, Machine Recall: 0.682, Machine F1: 0.634
+----------------------------------
+Train on wikipedia, Validation on wikipedia with CL name arxiv
+Samples in Validation set: 549
+Accuracy: 0.648
+Human Precision: 0.643, Human Recall: 0.636, Human F1: 0.639
+Machine Precision: 0.654, Machine Recall: 0.661, Machine F1: 0.657
+----------------------------------

@@ -7,10 +7,10 @@ function run_dftfooler_attack {
     NUM_SAMPLE=$6 # numbers of samples to be attacked
     CSV1="/csv1/xx.csv"
     CSV2="/csv2/xx.csv"
-    OUTPUT_TEXT="./output_jsonl/xx.jsonl"
+    OUTPUT_TEXT="./adversarial_datasets/adversarial_processed_arxiv_bloomz.jsonl"
 
-    export CUDA_VISIBLE_DEVICES=1
-    nohup python3 -u DFTFooler_attack.py \
+    #export CUDA_VISIBLE_DEVICES=1
+    python3 -u DFTFooler_attack.py \
     --low_prob_thre=${LOW_PROB_THRE} \
     --max_iter=${MAX_ITER} \
     --sim_thre=${SIM_THRE} \
@@ -20,11 +20,11 @@ function run_dftfooler_attack {
     --attack_stat_csv1=${CSV1} \
     --attack_stat_csv2=${CSV2} \
     --output_new_file=${OUTPUT_TEXT} \
-    >./logs/xx.txt &
+    #>./logs/xx.txt &
 }
 
 
 # The following cmd will run dftfooler attack on 1000 samples from dataset './df_1k_correct_512truncated.jsonl' usin bert LM backend (apply 10 word perturbations each document)
-run_dftfooler_attack 0.01 10 0.7 './df_1k_correct_512truncated.jsonl' 'bert' 1000
+run_dftfooler_attack 0.01 10 0.7 '/workspace/storage/generalized-text-detection/DeepfakeTextDetection/M4_data_processed/processed_arxiv_bloomz.jsonl' 'bert' 1000
 
 

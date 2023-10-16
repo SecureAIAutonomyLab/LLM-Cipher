@@ -1,0 +1,10 @@
+Results for ai_writer:
+Accuracy: 0.646
+Human Precision: 0.609, Human Recall: 0.818, Human F1: 0.698
+Machine Precision: 0.723, Machine Recall: 0.474, Machine F1: 0.572
+----------------------------------
+Results for ai_writer:
+Accuracy: 0.646
+Human Precision: 0.609, Human Recall: 0.818, Human F1: 0.698
+Machine Precision: 0.723, Machine Recall: 0.474, Machine F1: 0.572
+----------------------------------

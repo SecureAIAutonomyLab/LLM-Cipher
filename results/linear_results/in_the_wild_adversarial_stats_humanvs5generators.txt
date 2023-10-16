@@ -1,0 +1,20 @@
+7Results for ai_writer:
+Accuracy: 0.623
+Human Precision: 0.592, Human Recall: 0.785, Human F1: 0.675
+Machine Precision: 0.681, Machine Recall: 0.460, Machine F1: 0.549
+
+Results for ArticleForge:
+Accuracy: 0.787
+Human Precision: 0.756, Human Recall: 0.850, Human F1: 0.800
+Machine Precision: 0.829, Machine Recall: 0.725, Machine F1: 0.773
+
+Results for kafkai:
+Accuracy: 0.482
+Human Precision: 0.475, Human Recall: 0.335, Human F1: 0.393
+Machine Precision: 0.486, Machine Recall: 0.630, Machine F1: 0.549
+
+Results for reddit_bot:
+Accuracy: 0.807
+Human Precision: 0.836, Human Recall: 0.765, Human F1: 0.799
+Machine Precision: 0.783, Machine Recall: 0.850, Machine F1: 0.815
+

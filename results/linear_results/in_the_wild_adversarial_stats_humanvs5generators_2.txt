@@ -1,0 +1,72 @@
+Statistics for adversarial_ArticleForge_machine.npy:
+Accuracy: 0.725
+Precision (for Human): 0.000
+Recall (for Human): 0.000
+F1 Score (for Human): 0.000
+Precision (for Machine): 1.000
+Recall (for Machine): 0.725
+F1 Score (for Machine): 0.841
+-------------------------------
+Statistics for adversarial_ai_writer_machine.npy:
+Accuracy: 0.460
+Precision (for Human): 0.000
+Recall (for Human): 0.000
+F1 Score (for Human): 0.000
+Precision (for Machine): 1.000
+Recall (for Machine): 0.460
+F1 Score (for Machine): 0.630
+-------------------------------
+Statistics for adversarial_reddit_bot_gpt3_machine.npy:
+Accuracy: 0.850
+Precision (for Human): 0.000
+Recall (for Human): 0.000
+F1 Score (for Human): 0.000
+Precision (for Machine): 1.000
+Recall (for Machine): 0.850
+F1 Score (for Machine): 0.919
+-------------------------------
+Statistics for ai_writer_human_inthewild.npy:
+Accuracy: 0.785
+Precision (for Human): 1.000
+Recall (for Human): 0.785
+F1 Score (for Human): 0.880
+Precision (for Machine): 0.000
+Recall (for Machine): 0.000
+F1 Score (for Machine): 0.000
+-------------------------------
+Statistics for kafkai_human_inthewild.npy:
+Accuracy: 0.335
+Precision (for Human): 1.000
+Recall (for Human): 0.335
+F1 Score (for Human): 0.502
+Precision (for Machine): 0.000
+Recall (for Machine): 0.000
+F1 Score (for Machine): 0.000
+-------------------------------
+Statistics for ArticleForge_human_inthewild.npy:
+Accuracy: 0.850
+Precision (for Human): 1.000
+Recall (for Human): 0.850
+F1 Score (for Human): 0.919
+Precision (for Machine): 0.000
+Recall (for Machine): 0.000
+F1 Score (for Machine): 0.000
+-------------------------------
+Statistics for reddit_bot_gpt3_human_inthewild.npy:
+Accuracy: 0.765
+Precision (for Human): 1.000
+Recall (for Human): 0.765
+F1 Score (for Human): 0.867
+Precision (for Machine): 0.000
+Recall (for Machine): 0.000
+F1 Score (for Machine): 0.000
+-------------------------------
+Statistics for adversarial_kafkai_machine.npy:
+Accuracy: 0.630
+Precision (for Human): 0.000
+Recall (for Human): 0.000
+F1 Score (for Human): 0.000
+Precision (for Machine): 1.000
+Recall (for Machine): 0.630
+F1 Score (for Machine): 0.773
+-------------------------------

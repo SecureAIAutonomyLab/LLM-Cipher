@@ -1,0 +1,10 @@
+Results for ArticleForge:
+Accuracy: 0.828
+Human Precision: 0.843, Human Recall: 0.806, Human F1: 0.824
+Machine Precision: 0.814, Machine Recall: 0.850, Machine F1: 0.832
+----------------------------------
+Results for ArticleForge:
+Accuracy: 0.828
+Human Precision: 0.843, Human Recall: 0.806, Human F1: 0.824
+Machine Precision: 0.814, Machine Recall: 0.850, Machine F1: 0.832
+----------------------------------

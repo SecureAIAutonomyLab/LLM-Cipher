@@ -178,3 +178,4 @@ results/linear_results/best_model_humanvs5generators.pth
 results/linear_results/best_model_linear_binary.pth
 results/linear_results/best_model_linear_binary_2.pth
 DeepfakeTextDetection/DFTFooler/counter-fitted-vectors.txt
+*.pth

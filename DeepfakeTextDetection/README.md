@@ -1,3 +1,16 @@
+Environments:
+
+`conda activate GLTR_or_BERTD` for BERT-Defense, GLTR-GPT2, GLTR-BERT
+`conda activate RoBERTaD` for RoBERTa-Defense
+`conda activate DFTFooler` for  DFTFooler 
+
+Other things to note:
+
+
+
+
+
+
 # Deepfake Text Detection
 
 In this repository, we release code, datasets and model for the paper --- [Deepfake Text Detection: Limitations and Opportunities](https://jmpu.github.io/files/Deepfake%20Text%20Detection%20Limitations%20and%20Opportunities_CR.pdf) accepted by IEEE S&P 2023.

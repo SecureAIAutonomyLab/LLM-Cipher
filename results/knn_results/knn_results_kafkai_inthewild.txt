@@ -1,0 +1,5 @@
+Results for kafkai:
+Accuracy: 0.417
+Human Precision: 0.435, Human Recall: 0.551, Human F1: 0.486
+Machine Precision: 0.387, Machine Recall: 0.284, Machine F1: 0.328
+----------------------------------

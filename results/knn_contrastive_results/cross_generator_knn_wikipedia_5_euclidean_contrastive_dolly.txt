@@ -1,0 +1,300 @@
+Train on bloomz, Test on bloomz with CL name dolly
+Samples in Test set: 550
+Accuracy: 0.513
+Human Precision: 0.533, Human Recall: 0.481, Human F1: 0.506
+Machine Precision: 0.495, Machine Recall: 0.547, Machine F1: 0.520
+----------------------------------
+Train on bloomz, Validation on bloomz with CL name dolly
+Samples in Validation set: 550
+Accuracy: 0.493
+Human Precision: 0.523, Human Recall: 0.464, Human F1: 0.492
+Machine Precision: 0.466, Machine Recall: 0.525, Machine F1: 0.494
+----------------------------------
+Train on bloomz, Test on chatgpt with CL name dolly
+Samples in Test set: 549
+Accuracy: 0.650
+Human Precision: 0.716, Human Recall: 0.564, Human F1: 0.631
+Machine Precision: 0.603, Machine Recall: 0.748, Machine F1: 0.668
+----------------------------------
+Train on bloomz, Validation on chatgpt with CL name dolly
+Samples in Validation set: 549
+Accuracy: 0.665
+Human Precision: 0.707, Human Recall: 0.539, Human F1: 0.612
+Machine Precision: 0.640, Machine Recall: 0.786, Machine F1: 0.705
+----------------------------------
+Train on bloomz, Test on cohere with CL name dolly
+Samples in Test set: 417
+Accuracy: 0.583
+Human Precision: 0.671, Human Recall: 0.472, Human F1: 0.554
+Machine Precision: 0.527, Machine Recall: 0.718, Machine F1: 0.608
+----------------------------------
+Train on bloomz, Validation on cohere with CL name dolly
+Samples in Validation set: 418
+Accuracy: 0.639
+Human Precision: 0.691, Human Recall: 0.533, Human F1: 0.602
+Machine Precision: 0.605, Machine Recall: 0.750, Machine F1: 0.670
+----------------------------------
+Train on bloomz, Test on davinci with CL name dolly
+Samples in Test set: 550
+Accuracy: 0.655
+Human Precision: 0.704, Human Recall: 0.575, Human F1: 0.633
+Machine Precision: 0.618, Machine Recall: 0.740, Machine F1: 0.674
+----------------------------------
+Train on bloomz, Validation on davinci with CL name dolly
+Samples in Validation set: 550
+Accuracy: 0.627
+Human Precision: 0.679, Human Recall: 0.560, Human F1: 0.614
+Machine Precision: 0.587, Machine Recall: 0.703, Machine F1: 0.640
+----------------------------------
+Train on bloomz, Test on dolly with CL name dolly
+Samples in Test set: 490
+Accuracy: 0.606
+Human Precision: 0.647, Human Recall: 0.494, Human F1: 0.560
+Machine Precision: 0.580, Machine Recall: 0.722, Machine F1: 0.643
+----------------------------------
+Train on bloomz, Validation on dolly with CL name dolly
+Samples in Validation set: 491
+Accuracy: 0.654
+Human Precision: 0.700, Human Recall: 0.584, Human F1: 0.637
+Machine Precision: 0.619, Machine Recall: 0.729, Machine F1: 0.669
+----------------------------------
+Train on chatgpt, Test on bloomz with CL name dolly
+Samples in Test set: 550
+Accuracy: 0.542
+Human Precision: 0.533, Human Recall: 0.933, Human F1: 0.679
+Machine Precision: 0.627, Machine Recall: 0.121, Machine F1: 0.203
+----------------------------------
+Train on chatgpt, Validation on bloomz with CL name dolly
+Samples in Validation set: 550
+Accuracy: 0.544
+Human Precision: 0.540, Human Recall: 0.924, Human F1: 0.682
+Machine Precision: 0.577, Machine Recall: 0.116, Machine F1: 0.193
+----------------------------------
+Train on chatgpt, Test on chatgpt with CL name dolly
+Samples in Test set: 549
+Accuracy: 0.889
+Human Precision: 0.894, Human Recall: 0.897, Human F1: 0.895
+Machine Precision: 0.883, Machine Recall: 0.880, Machine F1: 0.882
+----------------------------------
+Train on chatgpt, Validation on chatgpt with CL name dolly
+Samples in Validation set: 549
+Accuracy: 0.913
+Human Precision: 0.917, Human Recall: 0.903, Human F1: 0.910
+Machine Precision: 0.908, Machine Recall: 0.921, Machine F1: 0.915
+----------------------------------
+Train on chatgpt, Test on cohere with CL name dolly
+Samples in Test set: 417
+Accuracy: 0.818
+Human Precision: 0.782, Human Recall: 0.926, Human F1: 0.848
+Machine Precision: 0.884, Machine Recall: 0.686, Machine F1: 0.772
+----------------------------------
+Train on chatgpt, Validation on cohere with CL name dolly
+Samples in Validation set: 418
+Accuracy: 0.813
+Human Precision: 0.760, Human Recall: 0.930, Human F1: 0.836
+Machine Precision: 0.904, Machine Recall: 0.691, Machine F1: 0.783
+----------------------------------
+Train on chatgpt, Test on davinci with CL name dolly
+Samples in Test set: 550
+Accuracy: 0.800
+Human Precision: 0.752, Human Recall: 0.916, Human F1: 0.826
+Machine Precision: 0.882, Machine Recall: 0.675, Machine F1: 0.765
+----------------------------------
+Train on chatgpt, Validation on davinci with CL name dolly
+Samples in Validation set: 550
+Accuracy: 0.800
+Human Precision: 0.758, Human Recall: 0.914, Human F1: 0.829
+Machine Precision: 0.874, Machine Recall: 0.672, Machine F1: 0.760
+----------------------------------
+Train on chatgpt, Test on dolly with CL name dolly
+Samples in Test set: 490
+Accuracy: 0.759
+Human Precision: 0.708, Human Recall: 0.896, Human F1: 0.791
+Machine Precision: 0.851, Machine Recall: 0.618, Machine F1: 0.716
+----------------------------------
+Train on chatgpt, Validation on dolly with CL name dolly
+Samples in Validation set: 491
+Accuracy: 0.782
+Human Precision: 0.731, Human Recall: 0.918, Human F1: 0.814
+Machine Precision: 0.877, Machine Recall: 0.636, Machine F1: 0.737
+----------------------------------
+Train on cohere, Test on bloomz with CL name dolly
+Samples in Test set: 550
+Accuracy: 0.560
+Human Precision: 0.548, Human Recall: 0.863, Human F1: 0.670
+Machine Precision: 0.614, Machine Recall: 0.234, Machine F1: 0.339
+----------------------------------
+Train on cohere, Validation on bloomz with CL name dolly
+Samples in Validation set: 550
+Accuracy: 0.533
+Human Precision: 0.538, Human Recall: 0.828, Human F1: 0.652
+Machine Precision: 0.510, Machine Recall: 0.201, Machine F1: 0.288
+----------------------------------
+Train on cohere, Test on chatgpt with CL name dolly
+Samples in Test set: 549
+Accuracy: 0.885
+Human Precision: 0.935, Human Recall: 0.842, Human F1: 0.886
+Machine Precision: 0.840, Machine Recall: 0.934, Machine F1: 0.884
+----------------------------------
+Train on cohere, Validation on chatgpt with CL name dolly
+Samples in Validation set: 549
+Accuracy: 0.882
+Human Precision: 0.932, Human Recall: 0.818, Human F1: 0.871
+Machine Precision: 0.843, Machine Recall: 0.943, Machine F1: 0.890
+----------------------------------
+Train on cohere, Test on cohere with CL name dolly
+Samples in Test set: 417
+Accuracy: 0.806
+Human Precision: 0.825, Human Recall: 0.821, Human F1: 0.823
+Machine Precision: 0.783, Machine Recall: 0.787, Machine F1: 0.785
+----------------------------------
+Train on cohere, Validation on cohere with CL name dolly
+Samples in Validation set: 418
+Accuracy: 0.797
+Human Precision: 0.800, Human Recall: 0.804, Human F1: 0.802
+Machine Precision: 0.793, Machine Recall: 0.789, Machine F1: 0.791
+----------------------------------
+Train on cohere, Test on davinci with CL name dolly
+Samples in Test set: 550
+Accuracy: 0.804
+Human Precision: 0.790, Human Recall: 0.846, Human F1: 0.817
+Machine Precision: 0.820, Machine Recall: 0.758, Machine F1: 0.788
+----------------------------------
+Train on cohere, Validation on davinci with CL name dolly
+Samples in Validation set: 550
+Accuracy: 0.809
+Human Precision: 0.812, Human Recall: 0.832, Human F1: 0.822
+Machine Precision: 0.806, Machine Recall: 0.784, Machine F1: 0.795
+----------------------------------
+Train on cohere, Test on dolly with CL name dolly
+Samples in Test set: 490
+Accuracy: 0.771
+Human Precision: 0.762, Human Recall: 0.799, Human F1: 0.780
+Machine Precision: 0.782, Machine Recall: 0.743, Machine F1: 0.762
+----------------------------------
+Train on cohere, Validation on dolly with CL name dolly
+Samples in Validation set: 491
+Accuracy: 0.804
+Human Precision: 0.802, Human Recall: 0.827, Human F1: 0.815
+Machine Precision: 0.807, Machine Recall: 0.780, Machine F1: 0.793
+----------------------------------
+Train on davinci, Test on bloomz with CL name dolly
+Samples in Test set: 550
+Accuracy: 0.580
+Human Precision: 0.559, Human Recall: 0.895, Human F1: 0.688
+Machine Precision: 0.681, Machine Recall: 0.242, Machine F1: 0.357
+----------------------------------
+Train on davinci, Validation on bloomz with CL name dolly
+Samples in Validation set: 550
+Accuracy: 0.547
+Human Precision: 0.548, Human Recall: 0.832, Human F1: 0.660
+Machine Precision: 0.546, Machine Recall: 0.228, Machine F1: 0.322
+----------------------------------
+Train on davinci, Test on chatgpt with CL name dolly
+Samples in Test set: 549
+Accuracy: 0.887
+Human Precision: 0.935, Human Recall: 0.845, Human F1: 0.888
+Machine Precision: 0.843, Machine Recall: 0.934, Machine F1: 0.886
+----------------------------------
+Train on davinci, Validation on chatgpt with CL name dolly
+Samples in Validation set: 549
+Accuracy: 0.903
+Human Precision: 0.958, Human Recall: 0.840, Human F1: 0.895
+Machine Precision: 0.863, Machine Recall: 0.964, Machine F1: 0.911
+----------------------------------
+Train on davinci, Test on cohere with CL name dolly
+Samples in Test set: 417
+Accuracy: 0.825
+Human Precision: 0.831, Human Recall: 0.856, Human F1: 0.843
+Machine Precision: 0.818, Machine Recall: 0.787, Machine F1: 0.802
+----------------------------------
+Train on davinci, Validation on cohere with CL name dolly
+Samples in Validation set: 418
+Accuracy: 0.828
+Human Precision: 0.811, Human Recall: 0.864, Human F1: 0.837
+Machine Precision: 0.847, Machine Recall: 0.789, Machine F1: 0.817
+----------------------------------
+Train on davinci, Test on davinci with CL name dolly
+Samples in Test set: 550
+Accuracy: 0.798
+Human Precision: 0.800, Human Recall: 0.814, Human F1: 0.807
+Machine Precision: 0.796, Machine Recall: 0.781, Machine F1: 0.789
+----------------------------------
+Train on davinci, Validation on davinci with CL name dolly
+Samples in Validation set: 550
+Accuracy: 0.787
+Human Precision: 0.802, Human Recall: 0.794, Human F1: 0.798
+Machine Precision: 0.771, Machine Recall: 0.780, Machine F1: 0.775
+----------------------------------
+Train on davinci, Test on dolly with CL name dolly
+Samples in Test set: 490
+Accuracy: 0.755
+Human Precision: 0.749, Human Recall: 0.779, Human F1: 0.764
+Machine Precision: 0.762, Machine Recall: 0.730, Machine F1: 0.746
+----------------------------------
+Train on davinci, Validation on dolly with CL name dolly
+Samples in Validation set: 491
+Accuracy: 0.813
+Human Precision: 0.810, Human Recall: 0.835, Human F1: 0.822
+Machine Precision: 0.816, Machine Recall: 0.788, Machine F1: 0.802
+----------------------------------
+Train on dolly, Test on bloomz with CL name dolly
+Samples in Test set: 550
+Accuracy: 0.576
+Human Precision: 0.559, Human Recall: 0.860, Human F1: 0.678
+Machine Precision: 0.643, Machine Recall: 0.272, Machine F1: 0.382
+----------------------------------
+Train on dolly, Validation on bloomz with CL name dolly
+Samples in Validation set: 550
+Accuracy: 0.544
+Human Precision: 0.545, Human Recall: 0.828, Human F1: 0.658
+Machine Precision: 0.537, Machine Recall: 0.224, Machine F1: 0.316
+----------------------------------
+Train on dolly, Test on chatgpt with CL name dolly
+Samples in Test set: 549
+Accuracy: 0.878
+Human Precision: 0.934, Human Recall: 0.828, Human F1: 0.878
+Machine Precision: 0.828, Machine Recall: 0.934, Machine F1: 0.878
+----------------------------------
+Train on dolly, Validation on chatgpt with CL name dolly
+Samples in Validation set: 549
+Accuracy: 0.891
+Human Precision: 0.934, Human Recall: 0.836, Human F1: 0.882
+Machine Precision: 0.857, Machine Recall: 0.943, Machine F1: 0.898
+----------------------------------
+Train on dolly, Test on cohere with CL name dolly
+Samples in Test set: 417
+Accuracy: 0.832
+Human Precision: 0.838, Human Recall: 0.860, Human F1: 0.849
+Machine Precision: 0.824, Machine Recall: 0.798, Machine F1: 0.811
+----------------------------------
+Train on dolly, Validation on cohere with CL name dolly
+Samples in Validation set: 418
+Accuracy: 0.828
+Human Precision: 0.820, Human Recall: 0.850, Human F1: 0.835
+Machine Precision: 0.837, Machine Recall: 0.804, Machine F1: 0.820
+----------------------------------
+Train on dolly, Test on davinci with CL name dolly
+Samples in Test set: 550
+Accuracy: 0.800
+Human Precision: 0.803, Human Recall: 0.814, Human F1: 0.808
+Machine Precision: 0.797, Machine Recall: 0.785, Machine F1: 0.791
+----------------------------------
+Train on dolly, Validation on davinci with CL name dolly
+Samples in Validation set: 550
+Accuracy: 0.809
+Human Precision: 0.814, Human Recall: 0.828, Human F1: 0.821
+Machine Precision: 0.803, Machine Recall: 0.788, Machine F1: 0.795
+----------------------------------
+Train on dolly, Test on dolly with CL name dolly
+Samples in Test set: 490
+Accuracy: 0.731
+Human Precision: 0.729, Human Recall: 0.747, Human F1: 0.738
+Machine Precision: 0.732, Machine Recall: 0.714, Machine F1: 0.723
+----------------------------------
+Train on dolly, Validation on dolly with CL name dolly
+Samples in Validation set: 491
+Accuracy: 0.796
+Human Precision: 0.806, Human Recall: 0.800, Human F1: 0.803
+Machine Precision: 0.786, Machine Recall: 0.792, Machine F1: 0.789
+----------------------------------

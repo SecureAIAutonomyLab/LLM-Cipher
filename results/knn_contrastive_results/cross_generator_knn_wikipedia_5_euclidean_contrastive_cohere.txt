@@ -1,0 +1,300 @@
+Train on bloomz, Test on bloomz with CL name cohere
+Samples in Test set: 550
+Accuracy: 0.611
+Human Precision: 0.635, Human Recall: 0.586, Human F1: 0.609
+Machine Precision: 0.589, Machine Recall: 0.638, Machine F1: 0.612
+----------------------------------
+Train on bloomz, Validation on bloomz with CL name cohere
+Samples in Validation set: 550
+Accuracy: 0.655
+Human Precision: 0.691, Human Recall: 0.629, Human F1: 0.658
+Machine Precision: 0.621, Machine Recall: 0.683, Machine F1: 0.651
+----------------------------------
+Train on bloomz, Test on chatgpt with CL name cohere
+Samples in Test set: 549
+Accuracy: 0.791
+Human Precision: 0.836, Human Recall: 0.753, Human F1: 0.792
+Machine Precision: 0.749, Machine Recall: 0.833, Machine F1: 0.789
+----------------------------------
+Train on bloomz, Validation on chatgpt with CL name cohere
+Samples in Validation set: 549
+Accuracy: 0.770
+Human Precision: 0.778, Human Recall: 0.743, Human F1: 0.760
+Machine Precision: 0.764, Machine Recall: 0.796, Machine F1: 0.780
+----------------------------------
+Train on bloomz, Test on cohere with CL name cohere
+Samples in Test set: 417
+Accuracy: 0.770
+Human Precision: 0.793, Human Recall: 0.786, Human F1: 0.789
+Machine Precision: 0.742, Machine Recall: 0.750, Machine F1: 0.746
+----------------------------------
+Train on bloomz, Validation on cohere with CL name cohere
+Samples in Validation set: 418
+Accuracy: 0.744
+Human Precision: 0.783, Human Recall: 0.692, Human F1: 0.734
+Machine Precision: 0.712, Machine Recall: 0.799, Machine F1: 0.753
+----------------------------------
+Train on bloomz, Test on davinci with CL name cohere
+Samples in Test set: 550
+Accuracy: 0.758
+Human Precision: 0.766, Human Recall: 0.768, Human F1: 0.767
+Machine Precision: 0.750, Machine Recall: 0.747, Machine F1: 0.749
+----------------------------------
+Train on bloomz, Validation on davinci with CL name cohere
+Samples in Validation set: 550
+Accuracy: 0.755
+Human Precision: 0.771, Human Recall: 0.763, Human F1: 0.767
+Machine Precision: 0.737, Machine Recall: 0.745, Machine F1: 0.741
+----------------------------------
+Train on bloomz, Test on dolly with CL name cohere
+Samples in Test set: 490
+Accuracy: 0.708
+Human Precision: 0.698, Human Recall: 0.751, Human F1: 0.723
+Machine Precision: 0.721, Machine Recall: 0.664, Machine F1: 0.691
+----------------------------------
+Train on bloomz, Validation on dolly with CL name cohere
+Samples in Validation set: 491
+Accuracy: 0.713
+Human Precision: 0.718, Human Recall: 0.737, Human F1: 0.727
+Machine Precision: 0.707, Machine Recall: 0.686, Machine F1: 0.697
+----------------------------------
+Train on chatgpt, Test on bloomz with CL name cohere
+Samples in Test set: 550
+Accuracy: 0.673
+Human Precision: 0.638, Human Recall: 0.853, Human F1: 0.730
+Machine Precision: 0.751, Machine Recall: 0.479, Machine F1: 0.585
+----------------------------------
+Train on chatgpt, Validation on bloomz with CL name cohere
+Samples in Validation set: 550
+Accuracy: 0.649
+Human Precision: 0.628, Human Recall: 0.825, Human F1: 0.713
+Machine Precision: 0.696, Machine Recall: 0.452, Machine F1: 0.548
+----------------------------------
+Train on chatgpt, Test on chatgpt with CL name cohere
+Samples in Test set: 549
+Accuracy: 0.922
+Human Precision: 0.928, Human Recall: 0.924, Human F1: 0.926
+Machine Precision: 0.915, Machine Recall: 0.919, Machine F1: 0.917
+----------------------------------
+Train on chatgpt, Validation on chatgpt with CL name cohere
+Samples in Validation set: 549
+Accuracy: 0.907
+Human Precision: 0.922, Human Recall: 0.885, Human F1: 0.903
+Machine Precision: 0.893, Machine Recall: 0.929, Machine F1: 0.911
+----------------------------------
+Train on chatgpt, Test on cohere with CL name cohere
+Samples in Test set: 417
+Accuracy: 0.923
+Human Precision: 0.930, Human Recall: 0.930, Human F1: 0.930
+Machine Precision: 0.915, Machine Recall: 0.915, Machine F1: 0.915
+----------------------------------
+Train on chatgpt, Validation on cohere with CL name cohere
+Samples in Validation set: 418
+Accuracy: 0.926
+Human Precision: 0.930, Human Recall: 0.925, Human F1: 0.927
+Machine Precision: 0.922, Machine Recall: 0.926, Machine F1: 0.924
+----------------------------------
+Train on chatgpt, Test on davinci with CL name cohere
+Samples in Test set: 550
+Accuracy: 0.749
+Human Precision: 0.692, Human Recall: 0.930, Human F1: 0.793
+Machine Precision: 0.880, Machine Recall: 0.555, Machine F1: 0.681
+----------------------------------
+Train on chatgpt, Validation on davinci with CL name cohere
+Samples in Validation set: 550
+Accuracy: 0.742
+Human Precision: 0.691, Human Recall: 0.928, Human F1: 0.792
+Machine Precision: 0.868, Machine Recall: 0.533, Machine F1: 0.660
+----------------------------------
+Train on chatgpt, Test on dolly with CL name cohere
+Samples in Test set: 490
+Accuracy: 0.769
+Human Precision: 0.710, Human Recall: 0.924, Human F1: 0.803
+Machine Precision: 0.886, Machine Recall: 0.610, Machine F1: 0.722
+----------------------------------
+Train on chatgpt, Validation on dolly with CL name cohere
+Samples in Validation set: 491
+Accuracy: 0.758
+Human Precision: 0.702, Human Recall: 0.925, Human F1: 0.799
+Machine Precision: 0.877, Machine Recall: 0.576, Machine F1: 0.696
+----------------------------------
+Train on cohere, Test on bloomz with CL name cohere
+Samples in Test set: 550
+Accuracy: 0.658
+Human Precision: 0.625, Human Recall: 0.853, Human F1: 0.721
+Machine Precision: 0.739, Machine Recall: 0.449, Machine F1: 0.559
+----------------------------------
+Train on cohere, Validation on bloomz with CL name cohere
+Samples in Validation set: 550
+Accuracy: 0.635
+Human Precision: 0.616, Human Recall: 0.821, Human F1: 0.704
+Machine Precision: 0.679, Machine Recall: 0.425, Machine F1: 0.523
+----------------------------------
+Train on cohere, Test on chatgpt with CL name cohere
+Samples in Test set: 549
+Accuracy: 0.907
+Human Precision: 0.908, Human Recall: 0.918, Human F1: 0.913
+Machine Precision: 0.906, Machine Recall: 0.895, Machine F1: 0.901
+----------------------------------
+Train on cohere, Validation on chatgpt with CL name cohere
+Samples in Validation set: 549
+Accuracy: 0.931
+Human Precision: 0.929, Human Recall: 0.929, Human F1: 0.929
+Machine Precision: 0.932, Machine Recall: 0.932, Machine F1: 0.932
+----------------------------------
+Train on cohere, Test on cohere with CL name cohere
+Samples in Test set: 417
+Accuracy: 0.916
+Human Precision: 0.929, Human Recall: 0.917, Human F1: 0.923
+Machine Precision: 0.901, Machine Recall: 0.915, Machine F1: 0.908
+----------------------------------
+Train on cohere, Validation on cohere with CL name cohere
+Samples in Validation set: 418
+Accuracy: 0.904
+Human Precision: 0.907, Human Recall: 0.907, Human F1: 0.907
+Machine Precision: 0.902, Machine Recall: 0.902, Machine F1: 0.902
+----------------------------------
+Train on cohere, Test on davinci with CL name cohere
+Samples in Test set: 550
+Accuracy: 0.727
+Human Precision: 0.676, Human Recall: 0.909, Human F1: 0.775
+Machine Precision: 0.844, Machine Recall: 0.532, Machine F1: 0.653
+----------------------------------
+Train on cohere, Validation on davinci with CL name cohere
+Samples in Validation set: 550
+Accuracy: 0.751
+Human Precision: 0.696, Human Recall: 0.938, Human F1: 0.799
+Machine Precision: 0.886, Machine Recall: 0.541, Machine F1: 0.671
+----------------------------------
+Train on cohere, Test on dolly with CL name cohere
+Samples in Test set: 490
+Accuracy: 0.761
+Human Precision: 0.700, Human Recall: 0.928, Human F1: 0.798
+Machine Precision: 0.887, Machine Recall: 0.589, Machine F1: 0.708
+----------------------------------
+Train on cohere, Validation on dolly with CL name cohere
+Samples in Validation set: 491
+Accuracy: 0.758
+Human Precision: 0.702, Human Recall: 0.925, Human F1: 0.799
+Machine Precision: 0.877, Machine Recall: 0.576, Machine F1: 0.696
+----------------------------------
+Train on davinci, Test on bloomz with CL name cohere
+Samples in Test set: 550
+Accuracy: 0.700
+Human Precision: 0.717, Human Recall: 0.695, Human F1: 0.706
+Machine Precision: 0.682, Machine Recall: 0.706, Machine F1: 0.694
+----------------------------------
+Train on davinci, Validation on bloomz with CL name cohere
+Samples in Validation set: 550
+Accuracy: 0.685
+Human Precision: 0.709, Human Recall: 0.687, Human F1: 0.698
+Machine Precision: 0.660, Machine Recall: 0.683, Machine F1: 0.672
+----------------------------------
+Train on davinci, Test on chatgpt with CL name cohere
+Samples in Test set: 549
+Accuracy: 0.909
+Human Precision: 0.976, Human Recall: 0.849, Human F1: 0.908
+Machine Precision: 0.851, Machine Recall: 0.977, Machine F1: 0.910
+----------------------------------
+Train on davinci, Validation on chatgpt with CL name cohere
+Samples in Validation set: 549
+Accuracy: 0.880
+Human Precision: 0.963, Human Recall: 0.784, Human F1: 0.865
+Machine Precision: 0.824, Machine Recall: 0.971, Machine F1: 0.892
+----------------------------------
+Train on davinci, Test on cohere with CL name cohere
+Samples in Test set: 417
+Accuracy: 0.861
+Human Precision: 0.962, Human Recall: 0.777, Human F1: 0.860
+Machine Precision: 0.780, Machine Recall: 0.963, Machine F1: 0.862
+----------------------------------
+Train on davinci, Validation on cohere with CL name cohere
+Samples in Validation set: 418
+Accuracy: 0.892
+Human Precision: 0.972, Human Recall: 0.813, Human F1: 0.885
+Machine Precision: 0.833, Machine Recall: 0.975, Machine F1: 0.898
+----------------------------------
+Train on davinci, Test on davinci with CL name cohere
+Samples in Test set: 550
+Accuracy: 0.767
+Human Precision: 0.790, Human Recall: 0.751, Human F1: 0.770
+Machine Precision: 0.746, Machine Recall: 0.785, Machine F1: 0.765
+----------------------------------
+Train on davinci, Validation on davinci with CL name cohere
+Samples in Validation set: 550
+Accuracy: 0.769
+Human Precision: 0.783, Human Recall: 0.780, Human F1: 0.781
+Machine Precision: 0.754, Machine Recall: 0.757, Machine F1: 0.755
+----------------------------------
+Train on davinci, Test on dolly with CL name cohere
+Samples in Test set: 490
+Accuracy: 0.794
+Human Precision: 0.787, Human Recall: 0.815, Human F1: 0.801
+Machine Precision: 0.802, Machine Recall: 0.772, Machine F1: 0.786
+----------------------------------
+Train on davinci, Validation on dolly with CL name cohere
+Samples in Validation set: 491
+Accuracy: 0.770
+Human Precision: 0.769, Human Recall: 0.796, Human F1: 0.782
+Machine Precision: 0.771, Machine Recall: 0.742, Machine F1: 0.756
+----------------------------------
+Train on dolly, Test on bloomz with CL name cohere
+Samples in Test set: 550
+Accuracy: 0.689
+Human Precision: 0.693, Human Recall: 0.719, Human F1: 0.706
+Machine Precision: 0.685, Machine Recall: 0.657, Machine F1: 0.671
+----------------------------------
+Train on dolly, Validation on bloomz with CL name cohere
+Samples in Validation set: 550
+Accuracy: 0.667
+Human Precision: 0.688, Human Recall: 0.680, Human F1: 0.684
+Machine Precision: 0.645, Machine Recall: 0.653, Machine F1: 0.649
+----------------------------------
+Train on dolly, Test on chatgpt with CL name cohere
+Samples in Test set: 549
+Accuracy: 0.891
+Human Precision: 0.953, Human Recall: 0.835, Human F1: 0.890
+Machine Precision: 0.837, Machine Recall: 0.953, Machine F1: 0.891
+----------------------------------
+Train on dolly, Validation on chatgpt with CL name cohere
+Samples in Validation set: 549
+Accuracy: 0.887
+Human Precision: 0.952, Human Recall: 0.810, Human F1: 0.876
+Machine Precision: 0.841, Machine Recall: 0.961, Machine F1: 0.897
+----------------------------------
+Train on dolly, Test on cohere with CL name cohere
+Samples in Test set: 417
+Accuracy: 0.851
+Human Precision: 0.942, Human Recall: 0.777, Human F1: 0.852
+Machine Precision: 0.776, Machine Recall: 0.941, Machine F1: 0.851
+----------------------------------
+Train on dolly, Validation on cohere with CL name cohere
+Samples in Validation set: 418
+Accuracy: 0.883
+Human Precision: 0.966, Human Recall: 0.799, Human F1: 0.875
+Machine Precision: 0.822, Machine Recall: 0.971, Machine F1: 0.890
+----------------------------------
+Train on dolly, Test on davinci with CL name cohere
+Samples in Test set: 550
+Accuracy: 0.805
+Human Precision: 0.793, Human Recall: 0.846, Human F1: 0.818
+Machine Precision: 0.821, Machine Recall: 0.762, Machine F1: 0.791
+----------------------------------
+Train on dolly, Validation on davinci with CL name cohere
+Samples in Validation set: 550
+Accuracy: 0.778
+Human Precision: 0.773, Human Recall: 0.821, Human F1: 0.797
+Machine Precision: 0.784, Machine Recall: 0.730, Machine F1: 0.756
+----------------------------------
+Train on dolly, Test on dolly with CL name cohere
+Samples in Test set: 490
+Accuracy: 0.749
+Human Precision: 0.735, Human Recall: 0.791, Human F1: 0.762
+Machine Precision: 0.766, Machine Recall: 0.705, Machine F1: 0.734
+----------------------------------
+Train on dolly, Validation on dolly with CL name cohere
+Samples in Validation set: 491
+Accuracy: 0.729
+Human Precision: 0.746, Human Recall: 0.725, Human F1: 0.736
+Machine Precision: 0.712, Machine Recall: 0.733, Machine F1: 0.722
+----------------------------------

@@ -1,0 +1,300 @@
+Train on arxiv, Test on arxiv
+Samples in Test set: 600
+Accuracy: 0.43
+Human Precision: 0.46, Human Recall: 0.53, Human F1: 0.49
+Machine Precision: 0.40, Machine Recall: 0.33, Machine F1: 0.36
+----------------------------------
+Train on arxiv, Validation on arxiv
+Samples in Validation set: 600
+Accuracy: 0.44
+Human Precision: 0.46, Human Recall: 0.56, Human F1: 0.50
+Machine Precision: 0.42, Machine Recall: 0.32, Machine F1: 0.36
+----------------------------------
+Train on arxiv, Test on peerread
+Samples in Test set: 117
+Accuracy: 0.44
+Human Precision: 0.48, Human Recall: 0.61, Human F1: 0.54
+Machine Precision: 0.37, Machine Recall: 0.25, Machine F1: 0.30
+----------------------------------
+Train on arxiv, Validation on peerread
+Samples in Validation set: 118
+Accuracy: 0.33
+Human Precision: 0.32, Human Recall: 0.43, Human F1: 0.37
+Machine Precision: 0.35, Machine Recall: 0.25, Machine F1: 0.29
+----------------------------------
+Train on arxiv, Test on reddit
+Samples in Test set: 600
+Accuracy: 0.41
+Human Precision: 0.44, Human Recall: 0.55, Human F1: 0.49
+Machine Precision: 0.34, Machine Recall: 0.25, Machine F1: 0.29
+----------------------------------
+Train on arxiv, Validation on reddit
+Samples in Validation set: 600
+Accuracy: 0.47
+Human Precision: 0.48, Human Recall: 0.63, Human F1: 0.54
+Machine Precision: 0.44, Machine Recall: 0.30, Machine F1: 0.36
+----------------------------------
+Train on arxiv, Test on wikihow
+Samples in Test set: 600
+Accuracy: 0.48
+Human Precision: 0.50, Human Recall: 0.59, Human F1: 0.54
+Machine Precision: 0.45, Machine Recall: 0.36, Machine F1: 0.40
+----------------------------------
+Train on arxiv, Validation on wikihow
+Samples in Validation set: 600
+Accuracy: 0.45
+Human Precision: 0.46, Human Recall: 0.59, Human F1: 0.52
+Machine Precision: 0.42, Machine Recall: 0.30, Machine F1: 0.35
+----------------------------------
+Train on arxiv, Test on wikipedia
+Samples in Test set: 600
+Accuracy: 0.46
+Human Precision: 0.48, Human Recall: 0.61, Human F1: 0.54
+Machine Precision: 0.41, Machine Recall: 0.29, Machine F1: 0.34
+----------------------------------
+Train on arxiv, Validation on wikipedia
+Samples in Validation set: 600
+Accuracy: 0.47
+Human Precision: 0.48, Human Recall: 0.59, Human F1: 0.53
+Machine Precision: 0.45, Machine Recall: 0.35, Machine F1: 0.39
+----------------------------------
+Train on peerread, Test on arxiv
+Samples in Test set: 600
+Accuracy: 0.32
+Human Precision: 0.31, Human Recall: 0.26, Human F1: 0.28
+Machine Precision: 0.32, Machine Recall: 0.38, Machine F1: 0.35
+----------------------------------
+Train on peerread, Validation on arxiv
+Samples in Validation set: 600
+Accuracy: 0.35
+Human Precision: 0.35, Human Recall: 0.33, Human F1: 0.34
+Machine Precision: 0.36, Machine Recall: 0.38, Machine F1: 0.37
+----------------------------------
+Train on peerread, Test on peerread
+Samples in Test set: 117
+Accuracy: 0.16
+Human Precision: 0.19, Human Recall: 0.18, Human F1: 0.18
+Machine Precision: 0.14, Machine Recall: 0.15, Machine F1: 0.14
+----------------------------------
+Train on peerread, Validation on peerread
+Samples in Validation set: 118
+Accuracy: 0.14
+Human Precision: 0.15, Human Recall: 0.19, Human F1: 0.17
+Machine Precision: 0.14, Machine Recall: 0.11, Machine F1: 0.12
+----------------------------------
+Train on peerread, Test on reddit
+Samples in Test set: 600
+Accuracy: 0.22
+Human Precision: 0.21, Human Recall: 0.19, Human F1: 0.20
+Machine Precision: 0.22, Machine Recall: 0.25, Machine F1: 0.23
+----------------------------------
+Train on peerread, Validation on reddit
+Samples in Validation set: 600
+Accuracy: 0.26
+Human Precision: 0.26, Human Recall: 0.25, Human F1: 0.26
+Machine Precision: 0.25, Machine Recall: 0.26, Machine F1: 0.26
+----------------------------------
+Train on peerread, Test on wikihow
+Samples in Test set: 600
+Accuracy: 0.29
+Human Precision: 0.29, Human Recall: 0.26, Human F1: 0.27
+Machine Precision: 0.29, Machine Recall: 0.33, Machine F1: 0.31
+----------------------------------
+Train on peerread, Validation on wikihow
+Samples in Validation set: 600
+Accuracy: 0.27
+Human Precision: 0.26, Human Recall: 0.24, Human F1: 0.25
+Machine Precision: 0.28, Machine Recall: 0.30, Machine F1: 0.29
+----------------------------------
+Train on peerread, Test on wikipedia
+Samples in Test set: 600
+Accuracy: 0.26
+Human Precision: 0.25, Human Recall: 0.21, Human F1: 0.23
+Machine Precision: 0.27, Machine Recall: 0.31, Machine F1: 0.29
+----------------------------------
+Train on peerread, Validation on wikipedia
+Samples in Validation set: 600
+Accuracy: 0.20
+Human Precision: 0.17, Human Recall: 0.16, Human F1: 0.17
+Machine Precision: 0.22, Machine Recall: 0.23, Machine F1: 0.23
+----------------------------------
+Train on reddit, Test on arxiv
+Samples in Test set: 600
+Accuracy: 0.38
+Human Precision: 0.43, Human Recall: 0.57, Human F1: 0.49
+Machine Precision: 0.28, Machine Recall: 0.18, Machine F1: 0.22
+----------------------------------
+Train on reddit, Validation on arxiv
+Samples in Validation set: 600
+Accuracy: 0.38
+Human Precision: 0.41, Human Recall: 0.56, Human F1: 0.47
+Machine Precision: 0.30, Machine Recall: 0.19, Machine F1: 0.23
+----------------------------------
+Train on reddit, Test on peerread
+Samples in Test set: 117
+Accuracy: 0.26
+Human Precision: 0.35, Human Recall: 0.47, Human F1: 0.40
+Machine Precision: 0.03, Machine Recall: 0.02, Machine F1: 0.02
+----------------------------------
+Train on reddit, Validation on peerread
+Samples in Validation set: 118
+Accuracy: 0.19
+Human Precision: 0.25, Human Recall: 0.42, Human F1: 0.31
+Machine Precision: 0.00, Machine Recall: 0.00, Machine F1: 0.00
+----------------------------------
+Train on reddit, Test on reddit
+Samples in Test set: 600
+Accuracy: 0.31
+Human Precision: 0.38, Human Recall: 0.53, Human F1: 0.45
+Machine Precision: 0.13, Machine Recall: 0.07, Machine F1: 0.09
+----------------------------------
+Train on reddit, Validation on reddit
+Samples in Validation set: 600
+Accuracy: 0.28
+Human Precision: 0.35, Human Recall: 0.51, Human F1: 0.42
+Machine Precision: 0.08, Machine Recall: 0.04, Machine F1: 0.06
+----------------------------------
+Train on reddit, Test on wikihow
+Samples in Test set: 600
+Accuracy: 0.33
+Human Precision: 0.39, Human Recall: 0.53, Human F1: 0.45
+Machine Precision: 0.18, Machine Recall: 0.11, Machine F1: 0.14
+----------------------------------
+Train on reddit, Validation on wikihow
+Samples in Validation set: 600
+Accuracy: 0.33
+Human Precision: 0.39, Human Recall: 0.55, Human F1: 0.45
+Machine Precision: 0.20, Machine Recall: 0.11, Machine F1: 0.15
+----------------------------------
+Train on reddit, Test on wikipedia
+Samples in Test set: 600
+Accuracy: 0.33
+Human Precision: 0.39, Human Recall: 0.53, Human F1: 0.45
+Machine Precision: 0.17, Machine Recall: 0.10, Machine F1: 0.13
+----------------------------------
+Train on reddit, Validation on wikipedia
+Samples in Validation set: 600
+Accuracy: 0.26
+Human Precision: 0.33, Human Recall: 0.45, Human F1: 0.38
+Machine Precision: 0.10, Machine Recall: 0.06, Machine F1: 0.08
+----------------------------------
+Train on wikihow, Test on arxiv
+Samples in Test set: 600
+Accuracy: 0.41
+Human Precision: 0.41, Human Recall: 0.34, Human F1: 0.37
+Machine Precision: 0.40, Machine Recall: 0.48, Machine F1: 0.44
+----------------------------------
+Train on wikihow, Validation on arxiv
+Samples in Validation set: 600
+Accuracy: 0.41
+Human Precision: 0.40, Human Recall: 0.31, Human F1: 0.35
+Machine Precision: 0.43, Machine Recall: 0.52, Machine F1: 0.47
+----------------------------------
+Train on wikihow, Test on peerread
+Samples in Test set: 117
+Accuracy: 0.33
+Human Precision: 0.35, Human Recall: 0.29, Human F1: 0.32
+Machine Precision: 0.32, Machine Recall: 0.38, Machine F1: 0.35
+----------------------------------
+Train on wikihow, Validation on peerread
+Samples in Validation set: 118
+Accuracy: 0.28
+Human Precision: 0.26, Human Recall: 0.34, Human F1: 0.30
+Machine Precision: 0.30, Machine Recall: 0.23, Machine F1: 0.26
+----------------------------------
+Train on wikihow, Test on reddit
+Samples in Test set: 600
+Accuracy: 0.38
+Human Precision: 0.39, Human Recall: 0.38, Human F1: 0.39
+Machine Precision: 0.36, Machine Recall: 0.37, Machine F1: 0.36
+----------------------------------
+Train on wikihow, Validation on reddit
+Samples in Validation set: 600
+Accuracy: 0.36
+Human Precision: 0.37, Human Recall: 0.37, Human F1: 0.37
+Machine Precision: 0.36, Machine Recall: 0.36, Machine F1: 0.36
+----------------------------------
+Train on wikihow, Test on wikihow
+Samples in Test set: 600
+Accuracy: 0.40
+Human Precision: 0.39, Human Recall: 0.31, Human F1: 0.35
+Machine Precision: 0.40, Machine Recall: 0.48, Machine F1: 0.44
+----------------------------------
+Train on wikihow, Validation on wikihow
+Samples in Validation set: 600
+Accuracy: 0.40
+Human Precision: 0.39, Human Recall: 0.34, Human F1: 0.36
+Machine Precision: 0.40, Machine Recall: 0.45, Machine F1: 0.43
+----------------------------------
+Train on wikihow, Test on wikipedia
+Samples in Test set: 600
+Accuracy: 0.40
+Human Precision: 0.42, Human Recall: 0.39, Human F1: 0.41
+Machine Precision: 0.39, Machine Recall: 0.42, Machine F1: 0.40
+----------------------------------
+Train on wikihow, Validation on wikipedia
+Samples in Validation set: 600
+Accuracy: 0.43
+Human Precision: 0.42, Human Recall: 0.37, Human F1: 0.40
+Machine Precision: 0.43, Machine Recall: 0.48, Machine F1: 0.45
+----------------------------------
+Train on wikipedia, Test on arxiv
+Samples in Test set: 600
+Accuracy: 0.39
+Human Precision: 0.39, Human Recall: 0.32, Human F1: 0.35
+Machine Precision: 0.38, Machine Recall: 0.46, Machine F1: 0.42
+----------------------------------
+Train on wikipedia, Validation on arxiv
+Samples in Validation set: 600
+Accuracy: 0.37
+Human Precision: 0.35, Human Recall: 0.28, Human F1: 0.31
+Machine Precision: 0.39, Machine Recall: 0.47, Machine F1: 0.43
+----------------------------------
+Train on wikipedia, Test on peerread
+Samples in Test set: 117
+Accuracy: 0.23
+Human Precision: 0.28, Human Recall: 0.29, Human F1: 0.29
+Machine Precision: 0.17, Machine Recall: 0.16, Machine F1: 0.17
+----------------------------------
+Train on wikipedia, Validation on peerread
+Samples in Validation set: 118
+Accuracy: 0.20
+Human Precision: 0.22, Human Recall: 0.30, Human F1: 0.25
+Machine Precision: 0.18, Machine Recall: 0.12, Machine F1: 0.15
+----------------------------------
+Train on wikipedia, Test on reddit
+Samples in Test set: 600
+Accuracy: 0.28
+Human Precision: 0.29, Human Recall: 0.26, Human F1: 0.28
+Machine Precision: 0.28, Machine Recall: 0.31, Machine F1: 0.29
+----------------------------------
+Train on wikipedia, Validation on reddit
+Samples in Validation set: 600
+Accuracy: 0.28
+Human Precision: 0.27, Human Recall: 0.25, Human F1: 0.26
+Machine Precision: 0.29, Machine Recall: 0.32, Machine F1: 0.30
+----------------------------------
+Train on wikipedia, Test on wikihow
+Samples in Test set: 600
+Accuracy: 0.34
+Human Precision: 0.33, Human Recall: 0.27, Human F1: 0.30
+Machine Precision: 0.35, Machine Recall: 0.42, Machine F1: 0.38
+----------------------------------
+Train on wikipedia, Validation on wikihow
+Samples in Validation set: 600
+Accuracy: 0.34
+Human Precision: 0.31, Human Recall: 0.26, Human F1: 0.28
+Machine Precision: 0.35, Machine Recall: 0.41, Machine F1: 0.38
+----------------------------------
+Train on wikipedia, Test on wikipedia
+Samples in Test set: 600
+Accuracy: 0.29
+Human Precision: 0.28, Human Recall: 0.23, Human F1: 0.25
+Machine Precision: 0.30, Machine Recall: 0.36, Machine F1: 0.33
+----------------------------------
+Train on wikipedia, Validation on wikipedia
+Samples in Validation set: 600
+Accuracy: 0.29
+Human Precision: 0.27, Human Recall: 0.25, Human F1: 0.26
+Machine Precision: 0.31, Machine Recall: 0.34, Machine F1: 0.32
+----------------------------------

@@ -1,0 +1,250 @@
+Results for bloomz on arxiv val set with original perturbation:
+Samples: 600
+Accuracy: 0.8217
+Human Precision: 0.7843
+Human Recall: 0.8907
+Human F1: 0.8341
+Machine Precision: 0.8716
+Machine Recall: 0.7517
+Machine F1: 0.8072
+----------------------
+Results for chatgpt on arxiv val set with original perturbation:
+Samples: 600
+Accuracy: 0.9350
+Human Precision: 0.9817
+Human Recall: 0.8874
+Human F1: 0.9322
+Machine Precision: 0.8960
+Machine Recall: 0.9832
+Machine F1: 0.9376
+----------------------
+Results for cohere on arxiv val set with original perturbation:
+Samples: 600
+Accuracy: 0.7983
+Human Precision: 0.7873
+Human Recall: 0.8212
+Human F1: 0.8039
+Machine Precision: 0.8105
+Machine Recall: 0.7752
+Machine F1: 0.7925
+----------------------
+Results for davinci on arxiv val set with original perturbation:
+Samples: 600
+Accuracy: 0.6450
+Human Precision: 0.6369
+Human Recall: 0.6854
+Human F1: 0.6603
+Machine Precision: 0.6545
+Machine Recall: 0.6040
+Machine F1: 0.6283
+----------------------
+Results for dolly on arxiv val set with original perturbation:
+Samples: 600
+Accuracy: 0.6833
+Human Precision: 0.6573
+Human Recall: 0.7748
+Human F1: 0.7112
+Machine Precision: 0.7213
+Machine Recall: 0.5906
+Machine F1: 0.6494
+----------------------
+Results for bloomz on peerread val set with original perturbation:
+Samples: 117
+Accuracy: 0.8547
+Human Precision: 0.8431
+Human Recall: 0.8269
+Human F1: 0.8350
+Machine Precision: 0.8636
+Machine Recall: 0.8769
+Machine F1: 0.8702
+----------------------
+Results for chatgpt on peerread val set with original perturbation:
+Samples: 118
+Accuracy: 0.9576
+Human Precision: 0.9800
+Human Recall: 0.9245
+Human F1: 0.9515
+Machine Precision: 0.9412
+Machine Recall: 0.9846
+Machine F1: 0.9624
+----------------------
+Results for cohere on peerread val set with original perturbation:
+Samples: 118
+Accuracy: 0.9407
+Human Precision: 0.9792
+Human Recall: 0.8868
+Human F1: 0.9307
+Machine Precision: 0.9143
+Machine Recall: 0.9846
+Machine F1: 0.9481
+----------------------
+Results for davinci on peerread val set with original perturbation:
+Samples: 118
+Accuracy: 0.9746
+Human Precision: 1.0000
+Human Recall: 0.9434
+Human F1: 0.9709
+Machine Precision: 0.9559
+Machine Recall: 1.0000
+Machine F1: 0.9774
+----------------------
+Results for dolly on peerread val set with original perturbation:
+Samples: 118
+Accuracy: 0.7119
+Human Precision: 0.6301
+Human Recall: 0.8679
+Human F1: 0.7302
+Machine Precision: 0.8444
+Machine Recall: 0.5846
+Machine F1: 0.6909
+----------------------
+Results for bloomz on reddit val set with original perturbation:
+Samples: 600
+Accuracy: 0.9233
+Human Precision: 0.9211
+Human Recall: 0.9272
+Human F1: 0.9241
+Machine Precision: 0.9257
+Machine Recall: 0.9195
+Machine F1: 0.9226
+----------------------
+Results for chatgpt on reddit val set with original perturbation:
+Samples: 600
+Accuracy: 0.9450
+Human Precision: 0.9529
+Human Recall: 0.9371
+Human F1: 0.9449
+Machine Precision: 0.9373
+Machine Recall: 0.9530
+Machine F1: 0.9451
+----------------------
+Results for cohere on reddit val set with original perturbation:
+Samples: 244
+Accuracy: 0.9016
+Human Precision: 0.8451
+Human Recall: 0.9836
+Human F1: 0.9091
+Machine Precision: 0.9804
+Machine Recall: 0.8197
+Machine F1: 0.8929
+----------------------
+Results for davinci on reddit val set with original perturbation:
+Samples: 600
+Accuracy: 0.9167
+Human Precision: 0.9172
+Human Recall: 0.9172
+Human F1: 0.9172
+Machine Precision: 0.9161
+Machine Recall: 0.9161
+Machine F1: 0.9161
+----------------------
+Results for dolly on reddit val set with original perturbation:
+Samples: 600
+Accuracy: 0.7567
+Human Precision: 0.7063
+Human Recall: 0.8841
+Human F1: 0.7853
+Machine Precision: 0.8423
+Machine Recall: 0.6275
+Machine F1: 0.7192
+----------------------
+Results for bloomz on wikihow val set with original perturbation:
+Samples: 600
+Accuracy: 0.8467
+Human Precision: 0.8547
+Human Recall: 0.8377
+Human F1: 0.8462
+Machine Precision: 0.8388
+Machine Recall: 0.8557
+Machine F1: 0.8472
+----------------------
+Results for chatgpt on wikihow val set with original perturbation:
+Samples: 600
+Accuracy: 0.8433
+Human Precision: 0.8636
+Human Recall: 0.8179
+Human F1: 0.8401
+Machine Precision: 0.8248
+Machine Recall: 0.8691
+Machine F1: 0.8464
+----------------------
+Results for cohere on wikihow val set with original perturbation:
+Samples: 600
+Accuracy: 0.9117
+Human Precision: 0.8822
+Human Recall: 0.9542
+Human F1: 0.9168
+Machine Precision: 0.9480
+Machine Recall: 0.8673
+Machine F1: 0.9059
+----------------------
+Results for davinci on wikihow val set with original perturbation:
+Samples: 600
+Accuracy: 0.7350
+Human Precision: 0.7563
+Human Recall: 0.6987
+Human F1: 0.7263
+Machine Precision: 0.7165
+Machine Recall: 0.7718
+Machine F1: 0.7431
+----------------------
+Results for dolly on wikihow val set with original perturbation:
+Samples: 600
+Accuracy: 0.7850
+Human Precision: 0.7396
+Human Recall: 0.8841
+Human F1: 0.8054
+Machine Precision: 0.8536
+Machine Recall: 0.6846
+Machine F1: 0.7598
+----------------------
+Results for bloomz on wikipedia val set with original perturbation:
+Samples: 600
+Accuracy: 0.9700
+Human Precision: 0.9610
+Human Recall: 0.9801
+Human F1: 0.9705
+Machine Precision: 0.9795
+Machine Recall: 0.9597
+Machine F1: 0.9695
+----------------------
+Results for chatgpt on wikipedia val set with original perturbation:
+Samples: 599
+Accuracy: 0.9666
+Human Precision: 0.9570
+Human Recall: 0.9764
+Human F1: 0.9666
+Machine Precision: 0.9764
+Machine Recall: 0.9571
+Machine F1: 0.9667
+----------------------
+Results for cohere on wikipedia val set with original perturbation:
+Samples: 468
+Accuracy: 0.8547
+Human Precision: 0.8301
+Human Recall: 0.8996
+Human F1: 0.8635
+Machine Precision: 0.8852
+Machine Recall: 0.8079
+Machine F1: 0.8447
+----------------------
+Results for davinci on wikipedia val set with original perturbation:
+Samples: 600
+Accuracy: 0.8667
+Human Precision: 0.8908
+Human Recall: 0.8377
+Human F1: 0.8635
+Machine Precision: 0.8449
+Machine Recall: 0.8960
+Machine F1: 0.8697
+----------------------
+Results for dolly on wikipedia val set with original perturbation:
+Samples: 541
+Accuracy: 0.8392
+Human Precision: 0.8190
+Human Recall: 0.8958
+Human F1: 0.8557
+Machine Precision: 0.8673
+Machine Recall: 0.7747
+Machine F1: 0.8184
+----------------------

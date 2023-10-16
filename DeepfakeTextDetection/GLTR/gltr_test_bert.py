@@ -389,9 +389,14 @@ def main():
 	labels_test = []
 
 	lm = BERTLM(model_name_or_path=args.bert_model)
+	index_count = 1
 	with jsonlines.open(args.test_dataset, 'r') as src_file:
 		for article in src_file:
-			print("Processing article number: {}".format(article['id']))
+			# if index_count > 200:
+			# 	break
+			print("Processing article number: {}".format(index_count))
+			index_count += 1
+			#print("Processing article number: {}".format(article['id']))
 			raw_text = article['text']
 			labels_test.append(article['label'])
 

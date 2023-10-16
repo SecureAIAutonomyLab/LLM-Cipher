@@ -247,11 +247,15 @@ def main():
 
 	histogram_of_likelihoods_test =  []
 	labels_test = []
-
+	index_count = 1
 	lm = LM(model_name_or_path=args.gpt2_model)
 	with jsonlines.open(args.test_dataset, 'r') as src_file:
 		for article in src_file:
-			print("Processing article number: {}".format(article['id']))
+			# if index_count > 200:
+			# 	break
+			print("Processing article number: {}".format(index_count))
+			index_count += 1
+			#print("Processing article number: {}".format(article['id']))
 			raw_text = article['text']
 			labels_test.append(article['label'])
 			payload = lm.check_probabilities(raw_text, topk=5)

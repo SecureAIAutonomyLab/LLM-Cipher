@@ -1,4 +1,4 @@
-# Complete script to aggregate results and save to CSV
+# Complete script to aggregate results and save to CSV, can adapt for different dataset evaluations you want to compile
 
 import os
 import json
@@ -26,9 +26,7 @@ def aggregate_results(folder_path):
                 # Read the data from the file
                 data = read_jsonl_file(filepath)
                 
-                # Extracting machine evaluation results along with accuracy, 
-                # convert to percentages and round to 2 decimal places
-                # Note: Accuracy is now the first metric in the tuple
+                # Extracting machine evaluation results for f1 score
                 machine_results = {
                     "fscore_machine": round(data["eval_fscore_machine"] * 100, 2)
                 }

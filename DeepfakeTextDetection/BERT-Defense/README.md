@@ -4,7 +4,7 @@
 
 2. Run experiments:
 
-- Evaluation bash script: ```eval_bert.sh```
+- Evaluation bash script: ```eval_bert.sh``` (Adapted for M4 data and In-the-wild data)
 - Finetuning bash script: ```bert_finetuning.sh```
 
 Note that description of important parameters can be found in the corresponding python script.
